@@ -160,9 +160,9 @@ function marketAddPlaceOnClick(e) {
 
 function createImgFn(url,iiid) {
 	if (url && url.startsWith("http")) {
-		var link = "<br/><a href='"+url+"'>"+url+"</a><br/>";
+		var link = "<br/><a href='"+url+"'>"+"original link"+"</a><br/>";
 		return function() { 
-			debugger;
+			//debugger;
 				if (!document.getElementById(iiid).innerHTML.includes(url)) document.getElementById(iiid).innerHTML += link; 
 			};
 	}
@@ -216,7 +216,7 @@ function addDot(percentX,percentY,className,text) {
 						if (url) url = url.split("\r")[0];
 						window["fn_"+iiid]= createImgFn(url,iiid);
 						
-						righthtml += "<span id='"+iiid+"'>"+l[0]+"</span><br/><img onclick='javascript:window.fn_"+iiid+"();'  src='"+l[1]+"' width='100%'/>\n";
+						righthtml += "<span style='display:block;word-wrap:break-word;width:100%;' id='"+iiid+"'>"+l[0]+"</span><br/><img style='width:100%;' onclick='javascript:window.fn_"+iiid+"();'  src='"+l[1]+"' width='100%'/>\n";
 					} else {
 						righthtml += l[1];
 					}
