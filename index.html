@@ -1,1 +1,306 @@
-<html><body>coucou</body></html>
+<!DOCTYPE html>
+<html>
+
+<head><meta charset="UTF-8">	
+	<title>Visiting the Wuhan seafood market</title>
+	<meta name="description" content="Visiting the Wuhan seafood market"/>
+	<meta name="twitter:card" content="summary_large_image"></meta>
+	<meta property="og:locale" content="en_EN"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:title" content="Visiting the Wuhan seafood market"/>
+	<meta property="og:url" content="http://babarlelephant.free-hoster.net/visiting-the-wuhan-seafood-market/"/>
+	<!--<meta property="og:image" content="http://babarlelephant.free-hoster.net/visit-the-wuhan-seafood-market/icon.jpg">
+	<meta property="og:image:width" content="1438"/>
+	<meta property="og:image:height" content="1214">-->
+	<meta property="og:image" content="http://babarlelephant.free-hoster.net/visiting-the-wuhan-seafood-market/icon.jpg"/>
+	<meta property="twitter:image" content="http://babarlelephant.free-hoster.net/visiting-the-wuhan-seafood-market/icon.jpg"/>
+	
+	<meta property="article:modified_time" content="2021-10-07T15:02:40+00:00" />
+	<style>
+	.street {
+		position:absolute;
+		//background:green;
+		//background:#FF00FFA0;
+		z-Index:1;
+		border-radius:50%;
+		transform: translate3d(0, 0, 200);
+		-webkit-transform:translate3d(0,0,200);
+		cursor: default;
+		font-size:12px;
+		font-weight: bold;
+		opacity:0.5;
+		color:white;
+	}
+	.dot {
+		position:absolute;
+		//background:green;
+		background:#FFFF00C0;
+		z-Index:1;
+		border-radius:180%;
+		transform: translate3d(0, 0, 200);
+		-webkit-transform:translate3d(0,0,200);
+		cursor: pointer;
+
+	}
+	.dot:hover {
+		background:#FFFFCCFF;
+	}
+	iframe {
+		width:150%;
+		height:100%;
+		transform:scale(0.7);
+		transform-origin: top left;
+		overflow-x:auto;
+		overflow-y:auto;
+	}
+	p {
+		text-align: justify;
+		color:white;
+	}
+	a {
+		color:#CCCCCC;
+	}
+	#intro {
+		margin-right:50px;
+		margin-top:10%;
+	}
+	body {
+		background-color:black;
+		color:white;
+		height:100%;
+	}
+	html {
+		height:98%;
+	}
+	</style>
+</head>
+
+<body>
+
+<table style="position:relative; height:90%;">
+<td style="position:relative;width:70%;">
+<div id = "market" style="position:relative;width:100%;">
+	<img src = "market4.png" width="100%"/>
+</div>
+
+</td>
+<td style="width:30%" >
+<div id="right"  style="position:relative;overflow-y:auto; height:100%;">
+	<div id="intro">
+	<p style="font-weight:bold;">A tour into the Wuhan seafood market.</p>
+	<p>Click on the yellow dots to walk through the market.</p>
+	<p>All but a few images with vendors were taken on December 31 between the first rumors and the market closure at 1am of January 1.
+	Most other pictures show disinfection and were taken in January, originating from a lot of different Chinese websites - try searching for 华南海鲜市场, paying attention to the few videos.</p>
+	<p>The map of the market comes from the <a href="https://www.who.int/publications/i/item/who-convened-global-study-of-origins-of-sars-cov-2-china-part">WHO report</a>. The locations are often easy to find as 西 区 六 街 means <i>west zone 6 street</i> and 东 区 十二 街 means <i>east zone 12 street</i>.</p>
+	<p>The bottles seem to contain compressed air for bubbling into the fish crates in order to keep them alive. That's a way to spot which parts of the market really are dedicated to seafood. <center><img width="50%" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2019%2F1231%2Fff6872fdj00q3drlo001sc000g400c3c.jpg&thumbnail=660x2147483647&quality=80&type=jpg"></img></center></p>
+	
+	<p>With all due respect to the victims, including those in the market who sparked the SARS-CoV-2 pandemic, and remembering that some of the earliest cases weren't connected to the market.</p>
+	
+	<p>Thanks to <a href="https://twitter.com/Drinkwater5Reed">Brian Reed</a> as well as several contributors both from the drastic and the zoonati side for their kind help.</p>
+	</div>
+	<!--<br/><br/><br/><div style="font-size:18;font-weight: bold;opacity:0.5;">Environmental PCR+<br/>Environmental PCR-<br/>Case N=1<br/>Case N=2<br/>Case N=3<br/>Domesticated wildlife products</div>-->
+	
+</div>
+<td>
+</table>
+
+
+<span style="font-size:9pt">
+<span style="cursor:pointer;" onclick="javascript:document.getElementById('editButtons').hidden = false;">edit mode</span> -
+most images archived there <a href="https://web.archive.org/web/20211013092138/http://babarlelephant.free-hoster.net/visiting-the-wuhan-seafood-market/toarchive.html?i=1">[1]</a><a href="https://archive.ph/j79c0">[2]</a> - if you find more please <a href="https://twitter.com/babarlelephant">share</a></span>
+<br/>
+<div id="editButtons" hidden><input type="button" value="addPlace" onclick="javascript:addPlace();"/>
+<input type="button" value="editPlace" onclick="javascript:editPlace();"/>
+<input type="button" value="exportData" onclick="javascript:exportData();"/></div>
+<script src="data2.js"></script>
+<script>
+var currentAction = "none";
+var market=document.getElementById("market");
+var o = {};
+function parseAndDrawData(data) {
+	var tab = data.split("\n");
+
+	var name = "";
+	for (var j = 0; j < tab.length; j++) {
+		if (tab[j].length > 3) {
+			if (tab[j][0] != "\t") {
+				name = tab[j].split("\r")[0].split("\n")[0].split("\t")[0]; //.split(" ")[0];
+				if (!(name in o)) o[name]=[];
+				//console.log(name+":");
+			}
+			else {
+				var l = tab[j].split("\n")[0];
+				o[name].push(l.substr(1));
+			}
+		}
+	}
+	for (var n in o) {
+		if (n[0]!="#") {
+			var l = n.split("-");
+			if (n.includes("street")) {
+				addDot(l[0],l[1],"street",l[3]);
+			} 
+			else {
+				addDot(parseFloat(l[0]),parseFloat(l[1]));
+			}
+		}
+	}
+}
+
+parseAndDrawData(dummyFunctionFromDataJs.toString().split("/*")[1].split("*/")[0]); // dummyFunctionFromDataJs comes from data.js loaded in a <script> tag above
+
+var tmpButtonsCount = 0;
+
+function marketAddPlaceOnClick(e) {
+	var x = e.offsetX,y=e.offsetY;
+	var percentX = Math.round(x/market.clientWidth*100*10)/10;
+	var percentY = Math.round(y/market.clientHeight*100*10)/10;
+	addDot(percentX,percentY);
+}
+
+function createImgFn(url,iiid) {
+	if (url && url.startsWith("http")) {
+		var link = "<br/><a href='"+url+"'>"+url+"</a><br/>";
+		return function() { 
+			debugger;
+				if (!document.getElementById(iiid).innerHTML.includes(url)) document.getElementById(iiid).innerHTML += link; 
+			};
+	}
+	else {
+		return function() {};
+	}
+}
+function addDot(percentX,percentY,className,text) {
+	var d = document.createElement("div");
+	if (!className)	className = "dot";
+	d.className=className;
+	if (text) d.innerText = text;
+	var percentRadiusX = 0.4;
+	var percentRadiusY = 0.4*market.clientWidth/market.clientHeight;
+	
+	var ss ="top:"+(percentY-percentRadiusY)+"%;left:"+(percentX-percentRadiusX)+"%;width:"+(percentRadiusX*2)+"%;height:"+(percentRadiusY*2)+"%;";
+	d.style=ss;
+	//console.log(ss);
+
+	var s = percentX+"-"+percentY;
+	d.onclick=function(e) {
+		if (currentAction == "editPlace") {
+			var righthtml = "<textarea id='edit' wrap='off' cols='50'rows='10' onkeydown='javascript:return handleTabInTextarea(this);'>\n";
+			righthtml+=s+"\n";
+			for (var j = 0; j < o[s].length; j++) {
+				righthtml += "\t" + o[s][j]+"\n";
+			}
+			if (o[s].length==0) {
+				righthtml += "\t#comment\timage-url\n";
+			}
+			righthtml += "</textarea><br/><input type='button' value='save' id='tmpButtonsCountSv"+tmpButtonsCount+"'/><input type='button' value='undo' onclick='javascript:undo();'/><input type='button' value='movePlace' id='tmpButtonsCountMv"+tmpButtonsCount+"'/><input type='button' value='removePlace' id='tmpButtonsCountRm"+tmpButtonsCount+"'/>";
+			document.getElementById("right").innerHTML=righthtml;
+			document.getElementById("tmpButtonsCountRm"+tmpButtonsCount).onclick = function() { removePlace(s,d);}
+			document.getElementById("tmpButtonsCountMv"+tmpButtonsCount).onclick = function() { movePlace(s,d);}
+			document.getElementById("tmpButtonsCountSv"+tmpButtonsCount).onclick = function() { savePlace(s);}
+			tmpButtonsCount++;
+			
+			e.stopImmediatePropagation();
+			currentAction = "none";
+		}
+		else if (currentAction == "none") {
+			var righthtml = "";
+			var iid = 0;
+			for (var j = 0; j < o[s].length; j++) {
+				if (o[s][j][0]!="#") {
+					var l = o[s][j].split("\t");
+					if (l[0] != "HTML") {
+						iiid = "imgid"+iid;
+						iid++;
+						var url = l[2];
+						if (url) url = url.split("\r")[0];
+						window["fn_"+iiid]= createImgFn(url,iiid);
+						
+						righthtml += "<span id='"+iiid+"'>"+l[0]+"</span><br/><img onclick='javascript:window.fn_"+iiid+"();'  src='"+l[1]+"' width='100%'/>\n";
+					} else {
+						righthtml += l[1];
+					}
+				}
+			}
+			console.log(righthtml);
+			document.getElementById("right").innerHTML=righthtml;
+		}
+	}
+	market.appendChild(d);
+	market.onclick = null;
+	if (! (s in o)) o[s] = [];
+}
+
+function savePlace(s) {
+	delete o[s];
+	parseAndDrawData(document.getElementById("right").querySelector("textarea").value);
+	
+}
+function handleTabInTextarea(t) {
+	if(event.keyCode===9){
+		var v=t.value,s=t.selectionStart,e=t.selectionEnd;t.value=v.substring(0, s)+'\t'+v.substring(e);t.selectionStart=t.selectionEnd=s+1; return false;
+	}
+	return true;
+}
+function movePlace(s,d) {
+	market.onclick = function (e) {
+		var x = e.offsetX,y=e.offsetY;
+		var percentX = Math.round(x/market.clientWidth*100*10)/10;
+		var percentY = Math.round(y/market.clientHeight*100*10)/10;
+		var tmp = o[s];
+		delete o[s];
+		var ss = percentX+"-"+percentY;
+		o[ss] = tmp;
+		d.parentNode.removeChild(d);
+		addDot(percentX,percentY);
+		o["#"+s+" moved to "+ss] = [];
+	}
+}
+function removePlace(s,d) {
+	d.parentNode.removeChild(d);
+	var t = o[s];
+	delete o[s];
+	o["#"+s] = t;
+}
+function addPlace() {
+	market.onclick = marketAddPlaceOnClick;
+	currentAction = "addPlace";
+}
+function editPlace() {
+	currentAction = "editPlace";
+	market.onclick = null;
+}
+function exportData() {
+	var t = document.createElement("textarea");
+	t.onkeydown = function() { return handleTabInTextarea(t);}
+	t.setAttribute('wrap','off');
+	t.setAttribute('cols',50);
+	t.setAttribute('rows',20);
+	var v = "";
+	for (var s in o) {
+		v += s+"\n";
+		for (var j in o[s]) {
+			v += "\t"+o[s][j]+"\n";
+		}
+	}
+	t.value = v;
+	document.getElementById("right").innerHTML = "";
+	document.getElementById("right").appendChild(t);
+}
+document.addEventListener("resize", function() {
+	var radius = Math.round(market.clientWidth*0.01);
+	for (var j = 0; j < market.children.length; j++) {
+		var d = market.children[j];
+		if (d.tagName=="div") {
+			var percentRadiusX = 0.4;
+			var percentRadiusY = 0.4*market.clientWidth/market.clientHeight;
+			d.percentX = x/market.clientWidth*100;
+			d.percentY = y/market.clientHeight*100;
+			var ss ="top:"+(d.percentY-percentRadiusY)+"%;left:"+(d.percentX-percentRadiusX)+"%;width:"+(percentRadiusX*2)+"%;height:"+(percentRadiusY*2)+"%;";
+			d.style=ss;
+		}
+	}
+});
+</script>
+</body>
+</html>
