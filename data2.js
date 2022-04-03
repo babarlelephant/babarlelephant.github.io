@@ -15,28 +15,28 @@ function dummyFunctionFromDataJs() { /*
 	HTML	<video width='100%' controls><source src="http://cloudvideo.thepaper.cn/video/261cb383ef014cb897a6858ccf68d549/hd/a7fa190b-ef0e-4eaa-963d-603f8eb216e0-f14f2f03-0866-d9db-9fbb-0b4a24ca5f24.mp4#t=67" type="video/mp4"></video>
 8.6-57.7
 	#	lapinallee6.jpg
-	HTML	<a href="https://haokan.baidu.com/v?pd=wisenatural&vid=4706510607985910675">from baidu</a><video width='100%' controls><source src="http://cov2.free.fr/baidu%20couloir%20sombre%20mars%20mda-katcz03m8gee3cqs.mp4#t=45.5" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/baidu%20couloir%20sombre%20mars%20mda-katcz03m8gee3cqs.mp4#t=57" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?pd=wisenatural&vid=4706510607985910675">from baidu</a><video width='100%' controls><source src="videos/baidu%20couloir%20sombre%20mars%20mda-katcz03m8gee3cqs.mp4#t=45.5" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/baidu%20couloir%20sombre%20mars%20mda-katcz03m8gee3cqs.mp4#t=57" type="video/mp4"></video>
 	#HTML	<video width='100%' controls><source src="video facebook couloir sombre 6 ouest coupee 10000000_549297742876302_6005460415033573593_n (online-video-cutter.com).mp4" type="video/mp4"></video>
-	HTML	<a href="https://www.facebook.com/watch/?v=712740732588576">from facebook</a><video width='100%' controls><source src="http://cov2.free.fr/video facebook couloir sombre 6 ouest 10000000_549297742876302_6005460415033573593_n.mp4#t=31.7" type="video/mp4"></video>
+	HTML	<a href="https://www.facebook.com/watch/?v=712740732588576">from facebook</a><video width='100%' controls><source src="videos/video facebook couloir sombre 6 ouest 10000000_549297742876302_6005460415033573593_n.mp4#t=31.7" type="video/mp4"></video>
 	#HTML	<a href="https://haokan.baidu.com/v?pd=wisenatural&vid=4706510607985910675">video on baidu</a><br/>
 	#HTML	<iframe width="100%" height="50%" src="https://haokan.baidu.com/v?pd=wisenatural&vid=4706510607985910675"></iframe><br/>
 	#HTML	<a href="https://www.facebook.com/watch/?v=712740732588576">video on facebook</a><br/>
 	#HTML	<iframe width="100%" height="50%" src="https://www.facebook.com/watch/?v=712740732588576"></iframe><br/>
 8.1-46.2
 	#	samHK marmoset.jpg I think it is 9th street now
-	HTML	<a href="https://haokan.baidu.com/v?vid=7450444564972746978">From baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/video%20baidu%20couloir%20sombre%20en%20mars%20-%20mda-kcimcmtzv5eatpi2.mp4#t=49" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=7450444564972746978">From baidu video</a> <video width='100%' controls><source src="videos/video%20baidu%20couloir%20sombre%20en%20mars%20-%20mda-kcimcmtzv5eatpi2.mp4#t=49" type="video/mp4"></video>
 19.9-8.5
 		saved_images/452.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200305/0335fad99f9643108949bdba144694fb.jpeg
 		saved_images/453.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200103/c167681cb052421993721e3dcbdee64d.jpeg
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=162" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=162" type="video/mp4"></video>
 		saved_images/24.jpg	https://i04piccdn.sogoucdn.com/82261a6ef1339c70
 		saved_images/388.jpg	https://img1.utuku.china.com/650x0/news/20200305/922269c0-2715-4137-8562-621159ccd25a.jpg
 		saved_images/454.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200305/0878c6c31c3d410babcdb3bfdadd785e.png
 		saved_images/25.jpg	https://qcloud.dpfile.com/pc/4_v4-kNa0koopZKyey9d6wvx6sA4EO6crco75mBJrl5m2cIggjFEH_RcDG1HWAsVjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 	HTML	<a href="https://www.facebook.com/watch/?ref=external&v=2886343351425358">video facebook 31 Dec</a>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/002UeEQ9lx07zNhTwG8U0104120014NM0E010.mp4" type="video/mp4"></video>
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=71" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/002UeEQ9lx07zNhTwG8U0104120014NM0E010.mp4" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=71" type="video/mp4"></video>
 	HTML	From <a href="https://www.meipian.cn/2nll7p22">Jianghan CDC blog</a><br/>
 		saved_images/26.jpg	https://ss2.meipian.me/users/77809907/2aaa318c0fbcf8d954f8695a8eda857e.jpg?imageView2/2/w/750/h/1400/q/80
 	unclear location for thisone	saved_images/336.jpg	https://ss2.meipian.me/users/77809907/630e922ce0c5866cae7753cdb8ced099.jpg?imageView2/2/w/750/h/1400/q/80
@@ -44,21 +44,21 @@ function dummyFunctionFromDataJs() { /*
 		saved_images/27.jpg	https://c7.alamy.com/comp/2B7KRKK/view-of-wuhan-huanan-wholesale-seafood-market-before-its-closure-in-hankou-wuhan-city-central-chinas-hubei-province-31-december-2019-2B7KRKK.jpg
 		saved_images/28.jpg	https://c7.alamy.com/comp/2B7KRM3/view-of-wuhan-huanan-wholesale-seafood-market-before-its-closure-in-hankou-wuhan-city-central-chinas-hubei-province-31-december-2019-2B7KRM3.jpg
 		saved_images/29.jpg	http://image.nbd.com.cn/uploads/articles/images/805279/1577766916__4.jpg
-	HTML	<a href="https://www.163.com/news/article/F1NSV0JR0001875P.html">from 163.com</a> <video width='100%' controls><source src="http://cov2.free.fr/videolib_repo_1912_31_2oiswd87a_SD_2oiswd87a-mobile.mp4#t=14.5" type="video/mp4"></video>
+	HTML	<a href="https://www.163.com/news/article/F1NSV0JR0001875P.html">from 163.com</a> <video width='100%' controls><source src="videos/videolib_repo_1912_31_2oiswd87a_SD_2oiswd87a-mobile.mp4#t=14.5" type="video/mp4"></video>
 		saved_images/455.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200101/32b6c04877aa4a8e9aeea5f3ecd5865c.jpeg
 		saved_images/30.jpg	https://x0.ifengimg.com/res/2020/F9CEB4A8F2DAB703E97EBA7B8CA642BD17C5AA0B_size3328_w3840_h2880.jpeg
 		saved_images/31.jpg	https://qcloud.dpfile.com/pc/DrxnZ9a0SdlXoS2BWuBSMlHJSl4uTpda1e636tTDkoMpXligJntXt0EPhmdVAUSzjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/32.jpg	https://qcloud.dpfile.com/pc/ybULK7HPUDbuOkr8gY_p22hrkE__6c1RfVMynNC83gUcsKmuFA0GbGX2sKiTUaZxjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/33.jpg	https://qcloud.dpfile.com/pc/kwOBKYnCKDSs9P7NfKLM7HfbNicAVOXeUj4Wi9lTu5Rv_c8s-MqzPDSezd3W9JXfjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=89.5" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=89.5" type="video/mp4"></video>
 18.7-39.1
 		allee9.jpg
-	HTML	<a href="https://www.bilibili.com/video/BV14t4y1B7Va/?spm_id_from=333.788.videocard.0">from bilibili</a><br/> <video width='100%' controls><source src="http://cov2.free.fr/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=45" type="video/mp4"></video>
+	HTML	<a href="https://www.bilibili.com/video/BV14t4y1B7Va/?spm_id_from=333.788.videocard.0">from bilibili</a><br/> <video width='100%' controls><source src="videos/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=45" type="video/mp4"></video>
 19.2-86.5
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/mda-ka0mkdzt4vxmzen3.mp4#t=33.5" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/mda-ka0mkdzt4vxmzen3.mp4#t=33.5" type="video/mp4"></video>
 		sortiedelalleecentraleouest.jpg
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=20" type="video/mp4"></video>
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=23.5" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=20" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=23.5" type="video/mp4"></video>
 	HTML	<a href="https://www.bilibili.com/video/BV1qJ411b73r?from=search&seid=5782454700678322579&spm_id_from=333.337.0.0">link to blibli video</a><br/>
 	HTML	<iframe src="https://www.bilibili.com/video/BV1qJ411b73r?from=search&seid=5782454700678322579&spm_id_from=333.337.0.0"></iframe>
 #6-65.1
@@ -71,37 +71,37 @@ function dummyFunctionFromDataJs() { /*
 18.3-68.3
 		saved_images/34.jpg	https://img.soundofhope.org/2020-01/33_2.jpg
 		saved_images/35.jpg	https://www.telegraph.co.uk/content/dam/global-health/2021/04/16/EddieHolmes_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7AvKqBklOOyURq28iOp_88Q.jpg?imwidth=960
-	HTML	<a href="https://haokan.baidu.com/v?vid=7450444564972746978">From baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/video%20baidu%20couloir%20sombre%20en%20mars%20-%20mda-kcimcmtzv5eatpi2.mp4#t=67.5" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=7450444564972746978">From baidu video</a> <video width='100%' controls><source src="videos/video%20baidu%20couloir%20sombre%20en%20mars%20-%20mda-kcimcmtzv5eatpi2.mp4#t=67.5" type="video/mp4"></video>
 #6.2-32.9
 39.5-17.8-street-13
 18.5-23.8-street-12
 18.5-17.8-street-13
 41.5-17.9
 		13th-street-view.jpg
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=117" type="video/mp4"></video>
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=225" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=117" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=225" type="video/mp4"></video>
 18.2-80.3
 		saved_images/36.jpg	https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc0c62489-5ec1-4577-afe5-3622ca0f9d03.jpg?fit=scale-down&source=next&width=700
 	#	alamy%20unknown2.jpg
 		saved_images/37.jpg	https://c7.alamy.com/comp/2B7KRKX/view-of-wuhan-huanan-wholesale-seafood-market-before-its-closure-in-hankou-wuhan-city-central-chinas-hubei-province-31-december-2019-2B7KRKX.jpg
 		saved_images/38.jpg	http://img2.baidu.com/it/u=2232879580,1229979849&fm=253&app=138&f=JPEG?w=500&h=667
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=40" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=40" type="video/mp4"></video>
 39.5-84.9
 	HTML	<a href="https://map.baidu.com/@11590057.96,4489812.75,4z#panoid=09000200121905211810099358V&panotype=street&heading=226.7&pitch=-6.75&l=4&tn=B_NORMAL_MAP&sc=0&newmap=1&shareurl=1&pid=09000200121905211810099358V">baidu street view</a><br/>
 		saved_images/39.jpg	https://i04piccdn.sogoucdn.com/66f083d90bf3f6ac
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/video%20facebook%20east%20side%20241423529_1503274520054115_4011458556763962664_n.mp4" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/kv5opXKzcdhTUIgz_DdhSuhgcYtMI9ViWtJFrg___16.mp4#t=1" type="video/mp4"></video>
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=341" type="video/mp4"></video>
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=https://qcloud.dpfile.com/pc/UdgHEI97nGau1EOurm_RUp0cgnJ9ROVrzxCuGLPCiq-OIamtgn9yOgxm7XNDABlujoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/video%20facebook%20east%20side%20241423529_1503274520054115_4011458556763962664_n.mp4" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/kv5opXKzcdhTUIgz_DdhSuhgcYtMI9ViWtJFrg___16.mp4#t=1" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=341" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=https://qcloud.dpfile.com/pc/UdgHEI97nGau1EOurm_RUp0cgnJ9ROVrzxCuGLPCiq-OIamtgn9yOgxm7XNDABlujoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg" type="video/mp4"></video>
 	Jan 21	saved_images/338.jpg	https://n.sinaimg.cn/spider2020121/475/w750h525/20200121/c1d1-innckce6742104.jpg
 		saved_images/457.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200101/01488e58c24d48bb976a5c5487ef5e9d.jpeg
 		saved_images/458.jpg	http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20200102/5c2552c311ac4db69cb44884554ef68a.jpeg
 		saved_images/40.jpg	http://pic-bucket.ws.126.net/photo/0001/2020-01-28/F3UIM78J00AN0001NOS.jpg
 		saved_images/41.jpg	http://n.sinaimg.cn/spider202012/700/w400h300/20200102/6ed9-imkzenq6550584.jpg
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=614" type="video/mp4"></video>		
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=614" type="video/mp4"></video>		
 	<a href="https://www.sohu.com/a/153952457_345268">2017</a>	saved_images/339.jpg	http://img.mp.sohu.com/upload/20170703/f0fb26e706774529b033a3de3aa90244_th.png
 		saved_images/42.jpg	https://dingyue.ws.126.net/2019/1231/b930cfb9j00q3d91w001oc000f000k0m.jpg
-	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="http://cov2.free.fr/quelques drones view 38650119902.mp4#t=128" type="video/mp4"></video>		
+	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="videos/quelques drones view 38650119902.mp4#t=128" type="video/mp4"></video>		
 		passage ouest drone.jpg
 		saved_images/403.jpg	https://c7.alamy.com/compfr/2b7krjx/vue-sur-le-marche-des-fruits-de-mer-de-wuhan-huanan-avant-sa-fermeture-a-hankou-ville-de-wuhan-province-de-hubei-en-chine-centrale-31-decembre-2019-2b7krjx.jpg
 		saved_images/404.jpg	https://c7.alamy.com/comp/2B7KRNT/view-of-the-closed-wuhan-huanan-wholesale-seafood-market-in-hankou-wuhan-city-central-chinas-hubei-province-1-january-2020-2B7KRNT.jpg
@@ -120,15 +120,15 @@ function dummyFunctionFromDataJs() { /*
 		saved_images/459.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200304/558f01e7e3b849ee8bb25513a0247b7c.jpeg
 	#<a href="http://video.chinanews.com/tvmining//News/MP4ZXW/CCYVNEWS/2020/01/27/frkexo1_1580099342375_E2Xvj1R_6230.mp4#t=32">From CCTV video</a>	cctv allee13.jpg
 	#<video width='100%' controls><source src="http://video.chinanews.com/tvmining//News/MP4ZXW/CCYVNEWS/2020/01/27/frkexo1_1580099342375_E2Xvj1R_6230.mp4#t=32" type="video/mp4"></video>
-	HTML	<a href="http://video.chinanews.com/tvmining//News/MP4ZXW/CCYVNEWS/2020/01/27/frkexo1_1580099342375_E2Xvj1R_6230.mp4#t=32">From CCTV video</a><video width='100%' controls><source src="http://cov2.free.fr/frkexo1_1580099342375_E2Xvj1R_6230.mp4#t=32" type="video/mp4"></video>
+	HTML	<a href="http://video.chinanews.com/tvmining//News/MP4ZXW/CCYVNEWS/2020/01/27/frkexo1_1580099342375_E2Xvj1R_6230.mp4#t=32">From CCTV video</a><video width='100%' controls><source src="videos/frkexo1_1580099342375_E2Xvj1R_6230.mp4#t=32" type="video/mp4"></video>
 52.6-84.5
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/coin sud est 001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=6" type="video/mp4"></video><br/>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/mda-ka0mkdzt4vxmzen3.mp4#t=51" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/coin sud est 001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=6" type="video/mp4"></video><br/>
+	HTML	<video width='100%' controls><source src="videos/mda-ka0mkdzt4vxmzen3.mp4#t=51" type="video/mp4"></video>
 		saved_images/45.jpg	https://www.rfa.org/mandarin/yataibaodao/huanjing/ql1-12312019065821.html/m1231-ql1p5.jpg/@@images/76249706-0888-4581-8683-2a105badd548.jpeg
 		saved_images/407.jpg	https://c7.alamy.com/comp/2B7KRNR/view-of-wuhan-huanan-wholesale-seafood-market-before-its-closure-in-hankou-wuhan-city-central-chinas-hubei-province-31-december-2019-2B7KRNR.jpg
 		saved_images/46.jpg	https://i01piccdn.sogoucdn.com/d41a2f6fc6816d64
 		saved_images/47.jpg	https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0408%2F9e30cf5ej00qr8133001dc000hs009xg.jpg&thumbnail=650x2147483647&quality=80&type=jpg
-	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="http://cov2.free.fr/quelques drones view 38650119902.mp4#t=32.7" type="video/mp4"></video>		
+	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="videos/quelques drones view 38650119902.mp4#t=32.7" type="video/mp4"></video>		
 		saved_images/48.jpg	https://qcloud.dpfile.com/pc/TY41aIG5vcKYQikmBnFAPvT8GuN1O6-5666Piyuk0Q1l4jazCKjwcTmk2BzyUGKZjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/49.jpg	http://image.thepaper.cn/wap/image/52/628/199.jpg
 		saved_images/50.jpg	https://media.gettyimages.com/photos/the-view-of-huanan-seafood-market-on-july-16-2021-in-wuhan-hubei-picture-id1329108535
@@ -139,25 +139,25 @@ function dummyFunctionFromDataJs() { /*
 	#	https://p9.itc.cn/q_70/images03/20210409/d1d8e3148e7341588e2b7cf640fe9e1c.jpeg
 		saved_images/460.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200101/480cd751f5ca4f848863973c3ea86f01.jpeg
 		saved_images/408.jpg	https://c7.alamy.com/compfr/2b7krp4/vue-sur-le-marche-des-fruits-de-mer-de-wuhan-huanan-avant-sa-fermeture-a-hankou-ville-de-wuhan-province-de-hubei-en-chine-centrale-31-decembre-2019-2b7krp4.jpg
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=217" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=217" type="video/mp4"></video>
 		saved_images/51.jpg	https://qcloud.dpfile.com/pc/yk0eJuXjr-CrCxVtQY2xyy5vkUHXGHgKtIpmOvuUWTonoUW1A-Gr6vGOAKlpzNq4joJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/1.jpg	https://qcloud.dpfile.com/pc/QqLHmA0vH6eStgYgxpQyRqeRSGEVl9giLiHhadm-ga7MyPRMleaDSP-6WmQuJiv6joJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/52.jpg	https://qcloud.dpfile.com/pc/saa61N9CSCUdAkxj5BNSZ3dZQtwQ5BIaSNJXljSXlpU-qWei53Gil9abJGGAXOm_joJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=124" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=124" type="video/mp4"></video>
 41.2-36.4
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/360 allee 10 ouest - baidu video - mda-jmwmytchc7718eai.mp4" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/360 allee 10 ouest - baidu video - mda-jmwmytchc7718eai.mp4" type="video/mp4"></video>
 	Older photo	old west side 640x427_5e2eebe2e8262.jpg
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=108" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=108" type="video/mp4"></video>
 18.9-26.9
 	The stall of <a href="https://www.11467.com/qiye/44270554.htm">65M IPBCAMS-WH-01</a>	saved_images/341.jpg	http://image.nbd.com.cn/uploads/articles/images/805277/1577766855__2.jpg
 	HTML	<video width='100%' controls><source src="http://cloudvideo.thepaper.cn/video/3c5ff847eaa44ab9b2ba4c1c3a8f54ff/hd/b4ad518f-4f8d-4b87-834a-1def7f5daf3a-07b13ebf-75e3-a7fe-c338-39f03a806b2c.mp4#t=11" type="video/mp4"></video>
 		saved_images/53.jpg	http://www.qingdaonews.com/app/pic/2020-01/19/82df1724-e87d-49da-9965-9f0230d2d0ab.png.2
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=132.5" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=132.5" type="video/mp4"></video>
 	<a href="https://youtu.be/4VZdZ_B6g28?t=22">from youtube video</a>	croisement allee11.jpg
 	HTML	<a href="https://haokan.baidu.com/v?vid=2728642934833543042">video baidu</a>
 	HTML	<a href="https://haokan.baidu.com/v?vid=9075791310680366699">video baidu</a>
 		koopmans 65M stall - pasteur talk.jpg
-	HTML	<a href="https://www.163.com/news/article/F1NSV0JR0001875P.html">from 163.com</a> <video width='100%' controls><source src="http://cov2.free.fr/videolib_repo_1912_31_2oiswd87a_SD_2oiswd87a-mobile.mp4#t=23" type="video/mp4"></video>
+	HTML	<a href="https://www.163.com/news/article/F1NSV0JR0001875P.html">from 163.com</a> <video width='100%' controls><source src="videos/videolib_repo_1912_31_2oiswd87a_SD_2oiswd87a-mobile.mp4#t=23" type="video/mp4"></video>
 		saved_images/54.jpg	https://qcloud.dpfile.com/pc/0satxRB8BcUnf-lyIPPlstIeTdVo4cuMkb0v7A35C8ibQ3QAyS5ZgqVDp-olAAnOjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 	HTML	<video width='100%' controls><source src="http://cloudvideo.thepaper.cn/video/5418827c27124e78af895fd228db799c/hd/15bea2ce-195b-4e9d-a47c-f22ab1f1de25-01bdd918-3870-7c63-7436-34559f55f804.mp4#t=66" type="video/mp4"></video>
 10.5-46.2
@@ -190,14 +190,14 @@ function dummyFunctionFromDataJs() { /*
 		
 49.4-8
 	HTML	<video width='100%' controls><source src="http://1251434507.vod2.myqcloud.com/48276b87vodtransgzp1251434507/7eb625fc5285890797298170079/v.f30.mp4#t=4" type="video/mp4"></video>
-	HTML	<a href="https://twitter.com/RamyInocencio/status/1219682977262841861?s=20">from twitter, Jan 21</a><br/><video width='100%' controls><source src="http://cov2.free.fr/twitter KBMyGufQK7bOg1fy.mp4" type="video/mp4"></video>
+	HTML	<a href="https://twitter.com/RamyInocencio/status/1219682977262841861?s=20">from twitter, Jan 21</a><br/><video width='100%' controls><source src="videos/twitter KBMyGufQK7bOg1fy.mp4" type="video/mp4"></video>
 		saved_images/462.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200121/a3179ccbcb634ce5865670cb2cb09eac.jpeg
 		saved_images/463.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200121/9cdf5ae410d74ce4929e8ca31ca64ed2.jpeg
 		saved_images/64.jpg	http://p3.itc.cn/images03/20200526/0eccd6ca1a1e43ee87a5a30479203915.jpeg
 		saved_images/65.jpg	https://i02piccdn.sogoucdn.com/26fe2726ec004d27
 		saved_images/66.jpg	https://i03piccdn.sogoucdn.com/e9e7f72da8fc74ef
 	<a href="https://youtu.be/h4lfp3mvKAE?t=389">from CGTN movie</a>	whdaz drone.jpg
-	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="http://cov2.free.fr/quelques drones view 38650119902.mp4#t=23.7" type="video/mp4"></video>		
+	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="videos/quelques drones view 38650119902.mp4#t=23.7" type="video/mp4"></video>		
 	HTML	<a href="https://youtu.be/abeYukTNmj0?t=2052">From Al Jazeera documentary</a>
 		al jazeera can you stop filming whdaz.jpg
 	HTML	<a href="https://youtu.be/abeYukTNmj0?t=1983">vendors on Jan 22</a>	whdaz vendors Jan 22.jpg
@@ -213,10 +213,10 @@ function dummyFunctionFromDataJs() { /*
 	The infamous game menu	saved_images/342.jpg	https://cdn.hk01.com/di/media/images/cis/5e26815b13d12b1ca2b9518e.jpg/FYl44B46CPnGeuRfNQZsyzv7dpMQnx5uOcrtfznK7X8?v=w640
 	HTML	translated <a href="https://docs.google.com/spreadsheets/d/16xlnXn4V1eHkJkqobkrp3PYaXzV70Gw29rWCq-AEU8s/edit?usp=sharing">there</a><br/>.
 	HTML	<a href="https://cbcgdf.wordpress.com/2020/05/31/breaking-news-cbcgdf-policy-and-research-department-received-a-response-about-the-dazhong-livestock-game-stall-at-the-wuhan-south-china-huanan-seafood-market/">Conveniently "the game menu is from 2015 and some species were just a joke, not raccoon dog though".</a><br/>
-	HTML	From <a href="https://youtu.be/WxtZj1_zW20?t=30">Animal equality's video</a> taken in April 2013 <video width='100%' controls><source src="http://cov2.free.fr/Animal%20Equality's%20Campaign%20to%20Ban%20Wet%20Markets.mp4#t=6.5" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/Animal%20Equality's%20Campaign%20to%20Ban%20Wet%20Markets.mp4#t=45" type="video/mp4"></video>
-	HTML	From <a href="https://www.youtube.com/watch?v=z1aeObx1YjI">second animal equality's video</a> <video width='100%' controls><source src="http://cov2.free.fr/animalequality petit bout Nuova investigazione sul commercio della carne di cane e gatto in Cina.mp4" type="video/mp4"></video>
-	HTML	<a href="https://weibo.com/tv/show/1034:4309900134683283?from=old_pc_videoshow">Live animals, posted on weibo 2018-11-24</a><br/><video width='100%' controls><source src="http://cov2.free.fr/animals WHDAZ 2018-11  000qhzewlx07prLWYOFi01040200bKJr0k010.mp4" type="video/mp4"></video><br/>
+	HTML	From <a href="https://youtu.be/WxtZj1_zW20?t=30">Animal equality's video</a> taken in April 2013 <video width='100%' controls><source src="videos/Animal%20Equality's%20Campaign%20to%20Ban%20Wet%20Markets.mp4#t=6.5" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/Animal%20Equality's%20Campaign%20to%20Ban%20Wet%20Markets.mp4#t=45" type="video/mp4"></video>
+	HTML	From <a href="https://www.youtube.com/watch?v=z1aeObx1YjI">second animal equality's video</a> <video width='100%' controls><source src="videos/animalequality petit bout Nuova investigazione sul commercio della carne di cane e gatto in Cina.mp4" type="video/mp4"></video>
+	HTML	<a href="https://weibo.com/tv/show/1034:4309900134683283?from=old_pc_videoshow">Live animals, posted on weibo 2018-11-24</a><br/><video width='100%' controls><source src="videos/animals WHDAZ 2018-11  000qhzewlx07prLWYOFi01040200bKJr0k010.mp4" type="video/mp4"></video><br/>
 	HTML	<a href="https://web.archive.org/web/20190707014745/http://whdaz.com/">WHDAZ.COM (old website and pictures)</a><br/>
 	An older version of the game menu	saved_images/343.jpg	https://web.archive.org/web/20160404015150im_/http://whdaz.com/UploadFile/Products/20160317094615.jpg
 		saved_images/70.jpg	https://web.archive.org/web/20191019024054im_/http://whdaz.com/UploadFile/Products/20160316113522.jpg
@@ -274,18 +274,18 @@ function dummyFunctionFromDataJs() { /*
 		saved_images/82.jpg	https://web.archive.org/web/20200415035347if_/http://whdaz01.zj21.host.35.com/UploadFile/Products/20160317102531.jpg
 		whdaz-dianping.jpg
 52.5-16.4
-	#	<video width='100%' controls><source src="http://cov2.free.fr/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=4" type="video/mp4"></video>		
-	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-06/news843687.shtml">chinanews tv</a><br/><video width='100%' controls><source src="http://cov2.free.fr/1AAE6F2D2DFF443EA00B45A457D3FDC2.mp4#t=10" type="video/mp4"></video>
+	#	<video width='100%' controls><source src="videos/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=4" type="video/mp4"></video>		
+	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-06/news843687.shtml">chinanews tv</a><br/><video width='100%' controls><source src="videos/1AAE6F2D2DFF443EA00B45A457D3FDC2.mp4#t=10" type="video/mp4"></video>
 		saved_images/83.jpg	https://inews.gtimg.com/newsapp_bt/0/11103302270/1000
 		saved_images/84.jpg	https://i03piccdn.sogoucdn.com/ca121c8bb4c7a703
 		saved_images/85.jpg	https://i01piccdn.sogoucdn.com/b8f47577d73ea0e1
 	<a href="https://v.qq.com/x/cover/mzc002007sjeek9/w3044t2yc1b.html">from video</a>	est allee11.jpg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=74.7" type="video/mp4"></video>		
+	HTML	<video width='100%' controls><source src="videos/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=74.7" type="video/mp4"></video>		
 		saved_images/465.jpg	http://5b0988e595225.cdn.sohucs.com/images/20191231/a24cb593b3004eb384524b65e6bdfc3a.jpeg
 		saved_images/409.jpg	https://imgcdn.yicai.com/uppics/images/2019/12/e6dcf3e595a4d566039c1a980aaade90.jpg
-	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-06/news843687.shtml">chinanews tv</a><br/><video width='100%' controls><source src="http://cov2.free.fr/164422D74ADA4081ABF937B44E9D5E0E_market-parts.mp4#t=11" type="video/mp4"></video>			
+	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-06/news843687.shtml">chinanews tv</a><br/><video width='100%' controls><source src="videos/164422D74ADA4081ABF937B44E9D5E0E_market-parts.mp4#t=11" type="video/mp4"></video>			
 		saved_images/86.jpg	https://qcloud.dpfile.com/pc/uUQh3lSZGHwUiGsi-NHsmc5LFJwwudYkT9mPYm16QLp6X-SGifYn7dkErBNhKP0AjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
-	HTML	<a href="https://www.163.com/news/article/F1NSV0JR0001875P.html">from 163.com</a> <video width='100%' controls><source src="http://cov2.free.fr/videolib_repo_1912_31_2oiswd87a_SD_2oiswd87a-mobile.mp4#t=10" type="video/mp4"></video>
+	HTML	<a href="https://www.163.com/news/article/F1NSV0JR0001875P.html">from 163.com</a> <video width='100%' controls><source src="videos/videolib_repo_1912_31_2oiswd87a_SD_2oiswd87a-mobile.mp4#t=10" type="video/mp4"></video>
 		saved_images/87.jpg	https://qcloud.dpfile.com/pc/JLvhV8Htm3GNKLyZqZ1xgDTdFDCm12c97Jh4qkjcfD3jnhhjdeoakUCXE8V2yzfAjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/88.jpg	https://c8.alamy.com/comp/2B7KRNC/view-of-the-closed-wuhan-huanan-wholesale-seafood-market-in-hankou-wuhan-city-central-chinas-hubei-province-1-january-2020-2B7KRNC.jpg
 		saved_images/410.jpg	https://c8.alamy.com/zooms/6/76de2c580bff49a59b8da5fe290d1e19/2b7krnc.jpg
@@ -300,10 +300,10 @@ function dummyFunctionFromDataJs() { /*
 	
 18.4-91.3
 	HTML	<video width='100%' controls><source src="https://vd3.bdstatic.com/mda-kha7a8tihawkb37n/mda-kha7a8tihawkb37n.mp4?playlist=%5B%22hd%22%5D&pd=20&vt=0#t=132" type="video/mp4"></video>
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=2" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/mda-ka0mkdzt4vxmzen3.mp4#t=18" type="video/mp4"></video>
-	HTML	<a href="https://twitter.com/caijingxiang/status/1344928635296223233?s=20">from twitter</a><br/><video width='100%' controls><source src="http://cov2.free.fr/twitter.com i status 1344928635296223233    - XIKUnwzkwvtkLzMD_edit.mp4#t=0.5" type="video/mp4"></video>
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=12" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=2" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/mda-ka0mkdzt4vxmzen3.mp4#t=18" type="video/mp4"></video>
+	HTML	<a href="https://twitter.com/caijingxiang/status/1344928635296223233?s=20">from twitter</a><br/><video width='100%' controls><source src="videos/twitter.com i status 1344928635296223233    - XIKUnwzkwvtkLzMD_edit.mp4#t=0.5" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=12" type="video/mp4"></video>
 		https://static.careerengine.us/api/aov2/https%3A_%7C__%7C_mmbiz.qpic.cn_%7C_mmbiz_png_%7C_xCEmT0voYoTaQVnbE7O9KQFBunAyiciaSCzHh3wicM9Ntstc7Fiblw9Hbl8wXbRHIRSj3mxWCiceLmcZkaNrPqST2iag_%7C_640%3Fwx_fmt%3Dpng
 		saved_images/43.jpg	https://i03piccdn.sogoucdn.com/bd55770a268d7cb1
 	HTML	<a href="https://map.baidu.com/@11590057.96,4489812.75,4z#panoid=09000200121905220803511458V&panotype=street&heading=343.62&pitch=2.31&l=4&tn=B_NORMAL_MAP&sc=0&newmap=1&shareurl=1&pid=09000200121905220803511458V">baidu street view</a><br/>
@@ -313,31 +313,31 @@ function dummyFunctionFromDataJs() { /*
 	from <a href="https://m.weibo.cn/status/IDN6R7kfx?fromvsogou=1#&video">video</a>	entree sud ouest.jpg
 19-15
 		saved_images/57.jpg	http://image.nbd.com.cn/uploads/articles/images/805278/1577766888__3.jpg
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=154" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=154" type="video/mp4"></video>
 		saved_images/89.jpg	http://n.sinaimg.cn/sinacn20119/400/w1280h720/20191231/efe0-imkzenq2717678.jpg
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=107.7" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=107.7" type="video/mp4"></video>
 18.7-11
 	Pre-pandemic 360° view from <a href="https://youtu.be/wC7w7GohNpg?t=64">youtube video</a>	top point west video.jpg
 		saved_images/285.jpg	https://pic1.zhimg.com/80/v2-513b1783dddb5d7018e5a019b7f70dc8_720w.jpg
 	HTML	<br/>Stall 13th X32, from <a href="https://v.qq.com/x/page/t30447xgmbs.html">qq video</a> (see also <a href="https://youtu.be/wC7w7GohNpg?t=76">youtube 360 video</a>)
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/t30447xgmbs.p701.1.2.mp4#t=20" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=33.8" type="video/mp4"></video>	
+	HTML	<video width='100%' controls><source src="videos/t30447xgmbs.p701.1.2.mp4#t=20" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=33.8" type="video/mp4"></video>	
 		saved_images/168.jpg	https://qcloud.dpfile.com/pc/KPqfh9dkL9oH_OPv763x6fjLUoL97HdxGZ179ZKXe-Q4OnA797ve0qcViZcSKwMVjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 	<a href="https://wantubizhi.com/pic/%E6%AD%A6%E6%B1%89%E6%B5%B7%E9%B2%9C%E8%B6%85%E5%B8%82/">2017</a>	saved_images/348.jpg	http://img1.gtimg.com/hb/pics/hv1/119/125/2221/144452519.jpeg
-	HTML	Dec 31? <video width='100%' controls><source src="http://cov2.free.fr/001eV0Zblx07zMEpdGI8010412000XxO0E010.mp4" type="video/mp4"></video>
+	HTML	Dec 31? <video width='100%' controls><source src="videos/001eV0Zblx07zMEpdGI8010412000XxO0E010.mp4" type="video/mp4"></video>
 		saved_images/58.jpg	https://imagecloud.thepaper.cn/thepaper/image/54/475/134.jpg
 		saved_images/59.jpg	https://i03piccdn.sogoucdn.com/9bd7fbd02696e4e3
 		saved_images/60.jpg	https://n.sinaimg.cn/news/crawl/145/w540h405/20200303/2573-iqfqmat9375619.jpg
 		saved_images/90.jpg	https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0927%2Fa9b73972j00r02zwl002qc000m800dcm.jpg&thumbnail=650x2147483647&quality=80&type=jpg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/CCTV big cleaning video 32620717301.mp4#t=26" type="video/mp4"></video>
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=97" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/CCTV big cleaning video 32620717301.mp4#t=26" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=97" type="video/mp4"></video>
 	# extrait de la vidéo https://edge.ivideo.sina.com.cn au dessus	saved_images/461.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200305/487bbca644f04376a666317259841eb2.png
 	# extrait de la vidéo https://edge.ivideo.sina.com.cn au dessus http://p3.img.cctvpic.com/photoworkspace/contentimg/2020/03/05/2020030511274058583.png
 27.7-9.2
 		saved_images/91.jpg	https://n.sinaimg.cn/spider2020127/384/w795h389/20200127/933f-intiarn5648573.jpg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/t30447xgmbs.p701.1.2.mp4#t=7.5" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/t30447xgmbs.p701.1.2.mp4#t=7.5" type="video/mp4"></video>
 		saved_images/468.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200103/c3d44e3c682249ed86d67ee1e0b1da66.jpeg
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=175" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=175" type="video/mp4"></video>
 		saved_images/92.jpg	https://i04piccdn.sogoucdn.com/4845d0b080538234
 		saved_images/93.jpg	https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0408%2Fa927a9bbj00qr8lgg000wc000hs008pg.jpg&thumbnail=650x2147483647&quality=80&type=jpg
 		saved_images/94.jpg	https://i03piccdn.sogoucdn.com/8ebd1c3b17265531
@@ -348,7 +348,7 @@ function dummyFunctionFromDataJs() { /*
 75.8-95.2-street-drone views
 74.5-96.2
 	drone views	saved_images/350.jpg	https://dingyue.ws.126.net/2020/0408/aa1f2664j00q8gxjn001ec000f0008gc.jpg
-	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="http://cov2.free.fr/quelques drones view 38650119902.mp4#t=0" type="video/mp4"></video>		
+	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="videos/quelques drones view 38650119902.mp4#t=0" type="video/mp4"></video>		
 		saved_images/98.jpg	https://focus.scol.com.cn/items/202003/200306073752833000140A4B.jpg
 		saved_images/99.jpg	https://img2.jiemian.com/101/original/20210609/162319767193719100.jpg
 		saved_images/100.jpg	https://i04piccdn.sogoucdn.com/33402ea6006e0492
@@ -367,7 +367,7 @@ function dummyFunctionFromDataJs() { /*
 		saved_images/110.jpg	https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AD4RKTS42ZIENKSJCB3LDNB7BE.jpg
 	from <a href="https://m.weibo.cn/status/IDN6R7kfx?fromvsogou=1#&video">video</a>	drone view passage sud ouest .jpg
 		saved_images/111.jpg	https://images.wsj.net/im-312616?width=1260&height=840
-	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="http://cov2.free.fr/quelques drones view 38650119902.mp4#t=139.5" type="video/mp4"></video>				
+	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="videos/quelques drones view 38650119902.mp4#t=139.5" type="video/mp4"></video>				
 	HTML	<a href="https://www.youtube.com/watch?v=eLd1ZcobjNY">youtube video</a><br/>
 	HTML	<a href="https://youtu.be/a8s61pxl5vw?t=74">youtube video</a><br/>
 		saved_images/3.jpg	https://p9.itc.cn/q_70/images03/20210409/d1d8e3148e7341588e2b7cf640fe9e1c.jpeg
@@ -387,7 +387,7 @@ function dummyFunctionFromDataJs() { /*
 75-54.6
 	south of central alley in east area	saved_images/351.jpg	https://i02piccdn.sogoucdn.com/645e39a27714bd8f
 		saved_images/63.jpg	https://d.ifengimg.com/q100/img1.ugc.ifeng.com/newugc/20200121/8/wemedia/a916f911be3334bf7c016d71b0bccb6db4042a02_size467_w897_h600.png
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/video facebook east side 241423529_1503274520054115_4011458556763962664_n.mp4#t=29.8" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/video facebook east side 241423529_1503274520054115_4011458556763962664_n.mp4#t=29.8" type="video/mp4"></video>
 	
 50-43.2
 		saved_images/116.jpg	https://i03piccdn.sogoucdn.com/ea6a5dc9fb04d3f0
@@ -409,11 +409,11 @@ function dummyFunctionFromDataJs() { /*
 		saved_images/121.jpg	https://i02piccdn.sogoucdn.com/d39663971d81cb47
 		saved_images/122.jpg	https://media.nature.com/lw800/magazine-assets/d41586-020-03165-9/d41586-020-03165-9_18566764.jpg
 		couloir-game-stall-rabbit.jpg
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=112" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=112" type="video/mp4"></video>
 		saved_images/123.jpg	https://th.bing.com/th/id/R.3f0fa77d8db49ed583cb7baf8aea4929?rik=7R2aw%2fuCxzwZOw&riu=http%3a%2f%2finews.gtimg.com%2fnewsapp_bt%2f0%2f11103036186%2f641&ehk=eIMbL12%2fcvZisubn7wdev2jz1usxrVvjXiesOt2VA5E%3d&risl=&pid=ImgRaw&r=0
 	HTML	<video width='100%' controls><source src="http://cloudvideo.thepaper.cn/video/5418827c27124e78af895fd228db799c/hd/15bea2ce-195b-4e9d-a47c-f22ab1f1de25-01bdd918-3870-7c63-7436-34559f55f804.mp4#t=142.5" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/baidu%20couloir%20sombre%20mars%20mda-katcz03m8gee3cqs.mp4#t=123" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=50.5" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/baidu%20couloir%20sombre%20mars%20mda-katcz03m8gee3cqs.mp4#t=123" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=50.5" type="video/mp4"></video>
 		
 19.2-81.4-street-1
 	west	
@@ -433,12 +433,12 @@ function dummyFunctionFromDataJs() { /*
 49.6-26.1
 		east-10th-street.jpg
 40.2-23.5
-	HTML	<a href="https://haokan.baidu.com/v?vid=17163277878096658532">from baidu video</a><br/><video width='100%' controls><source src="http://cov2.free.fr/dehors%20West%2012-9%20mda-jmwnei4itr15rc5a.mp4#t=8" type="video/mp4"></video>
-	HTML	<a href="https://v.qq.com/x/page/h3044cv7xie.html">from qq, Dec 31</a> <video width='100%' controls><source src="http://cov2.free.fr/video couloir 12 tencent v.qq.com-x-page-h3044cv7xie.html.mp4#t=2.5" type="video/mp4"></video>		allee12.jpg
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=233" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=17163277878096658532">from baidu video</a><br/><video width='100%' controls><source src="videos/dehors%20West%2012-9%20mda-jmwnei4itr15rc5a.mp4#t=8" type="video/mp4"></video>
+	HTML	<a href="https://v.qq.com/x/page/h3044cv7xie.html">from qq, Dec 31</a> <video width='100%' controls><source src="videos/video couloir 12 tencent v.qq.com-x-page-h3044cv7xie.html.mp4#t=2.5" type="video/mp4"></video>		allee12.jpg
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=233" type="video/mp4"></video>
 		saved_images/124.jpg	https://www.rfa.org/mandarin/Xinwen/clean.jpeg/@@images/adf521e3-66f7-42bc-967b-61265b4f9155.jpeg
 		saved_images/125.jpg	https://i02piccdn.sogoucdn.com/b3fba75a4446dab2
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=111" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=111" type="video/mp4"></video>
 65.2-96.2
 	HTML	<br/><br/>Unknown locations<br/><br/>
 	<a href="http://news.sina.com.cn/c/2005-11-01/09087324120s.shtml">The market in 2005</a> desinfection of poultry stalls for H5N1	saved_images/353.jpg	http://image2.sina.com.cn/dy/c/2005-11-01/233a2ca813b3b8062c54dcf0b9bc7733.jpg
@@ -447,8 +447,8 @@ function dummyFunctionFromDataJs() { /*
 		saved_images/127.jpg	http://qqpublic.qpic.cn/qq_public/0/0-2177693176-9F8B2C2DBA422F6442F5CE9FE8BEB8FB/0?fmt=jpg&size=153&h=633&w=900&ppv=1/0
 		saved_images/128.jpg	https://qcloud.dpfile.com/pc/75rlL7eNtEM4GzCtjQu77_L5Lo5r-XSMRVzT5KgeI5PjfRmSOycLFgUWB3SdU3RWjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/474.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200106/76ac1f1b3bd8498b84026488b54cee2d.jpeg
-	HTML	<a href="https://n.miaopai.com/media/tqMjPkAqjAz5JwcjKlmO6vgeqUdoE04O">miaopai video</a><br/> <video width='100%' controls><source src="http://cov2.free.fr/C-w92Zu5POKv3o3JI19inXBMTrr4v1R7ARyw8A___8.mp4#t=46.5" type="video/mp4"></video>	
-	HTML	<a href="https://n.miaopai.com/media/tqMjPkAqjAz5JwcjKlmO6vgeqUdoE04O">miaopai video</a><br/> <video width='100%' controls><source src="http://cov2.free.fr/C-w92Zu5POKv3o3JI19inXBMTrr4v1R7ARyw8A___8.mp4#t=51" type="video/mp4"></video>	
+	HTML	<a href="https://n.miaopai.com/media/tqMjPkAqjAz5JwcjKlmO6vgeqUdoE04O">miaopai video</a><br/> <video width='100%' controls><source src="videos/C-w92Zu5POKv3o3JI19inXBMTrr4v1R7ARyw8A___8.mp4#t=46.5" type="video/mp4"></video>	
+	HTML	<a href="https://n.miaopai.com/media/tqMjPkAqjAz5JwcjKlmO6vgeqUdoE04O">miaopai video</a><br/> <video width='100%' controls><source src="videos/C-w92Zu5POKv3o3JI19inXBMTrr4v1R7ARyw8A___8.mp4#t=51" type="video/mp4"></video>	
 	Note the stairs going to a 2nd floor	saved_images/354.jpg	https://qcloud.dpfile.com/pc/ewFbB3ypBFohbpLenbPRrYDOg2zfJa2Rbeihh4y49EYu74tjFs37spb-6mEnnHXbjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/475.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200104/514ecca472f54429afc5d03c212483d5.jpeg
 		saved_images/129.jpg	https://qcloud.dpfile.com/pc/Y_djc6hDD8DCHR5ggzvxysJYrqXVjq4he9jGNoANclHuq6d5-stDNs9b0W58yw6TjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
@@ -458,9 +458,9 @@ function dummyFunctionFromDataJs() { /*
 	HTML	<video width='100%' controls><source src="http://cloudvideo.thepaper.cn/video/ac425216bd2b433d897a45c01eb61706/hd/ed9e255f-ff75-416a-8fb3-e18b056fc2a6-d9d34484-1073-5835-2a47-59077857dc23.mp4#t=30.5" type="video/mp4"></video>
 	2013	saved_images/355.jpg	https://qcloud.dpfile.com/pc/SjgzskjNVsYZJFWtlu11YIPg7hrwgBMYHs-EvuvCPOv9FiMxfamhzOpBpUB36ZKEjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 	<a href="http://www.dianping.com/photos/25034921">2013</a>	saved_images/356.jpg	https://qcloud.dpfile.com/pc/Jzxsju1fAWoX9jfsMyPe80du927i8CAikAe7hdLQBJ7G8He3lPfjFCARXQQNeUTPjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
-	HTML	<br/><a href="https://haokan.baidu.com/v?pd=wisenatural&vid=5772423104822714382">pre-pandemic video (mainly fish)</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-kbfn1h3uwypt3ura.mp4#t=70.7" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/mda-kbfn1h3uwypt3ura.mp4#t=74.5" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/mda-kbfn1h3uwypt3ura.mp4#t=88.5" type="video/mp4"></video>
+	HTML	<br/><a href="https://haokan.baidu.com/v?pd=wisenatural&vid=5772423104822714382">pre-pandemic video (mainly fish)</a> <video width='100%' controls><source src="videos/mda-kbfn1h3uwypt3ura.mp4#t=70.7" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/mda-kbfn1h3uwypt3ura.mp4#t=74.5" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/mda-kbfn1h3uwypt3ura.mp4#t=88.5" type="video/mp4"></video>
 	<a href="https://www.sohu.com/a/153952457_345268">from Sogou 2017 with many pictures</a>	saved_images/358.jpg	http://img.mp.sohu.com/upload/20170703/28f61eba01914f71abbdf52cf6d58f64_th.png
 		saved_images/134.jpg	https://crawl.ws.126.net/2579b590c9c64f51d539ec2b8c96226d.jpg
 		saved_images/135.jpg	https://i04piccdn.sogoucdn.com/f7e9d628cbcb4ea2
@@ -566,12 +566,12 @@ function dummyFunctionFromDataJs() { /*
 	#	https://n.sinaimg.cn/spider202011/250/w600h450/20200101/e3dc-imkzenq4662762.jpg
 		saved_images/390.jpg	http://i2.chinanews.com/simg/ypt/2020/200101/110748900_zsite.jpg
 		saved_images/391.jpg	http://i2.chinanews.com/simg/ypt/2020/200101/110748930_zsite.jpg
-	HTML	From <a href="https://v.qq.com/x/page/t30447xgmbs.html">qq</a><br/><video width='100%' controls><source src="http://cov2.free.fr/t30447xgmbs.p701.1.2.mp4#t=30" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/t30447xgmbs.p701.1.2.mp4#t=12" type="video/mp4"></video>
+	HTML	From <a href="https://v.qq.com/x/page/t30447xgmbs.html">qq</a><br/><video width='100%' controls><source src="videos/t30447xgmbs.p701.1.2.mp4#t=30" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/t30447xgmbs.p701.1.2.mp4#t=12" type="video/mp4"></video>
 	HTML	From <a href="https://news.china.com/socialgd/10000169/20200305/37873496_1.html">news.china.com</a>
 		saved_images/392.jpg	https://img0.utuku.china.com/650x0/news/20200305/0d777fda-f90f-4d2b-9cbf-1beab88f7116.jpg
 		saved_images/393.jpg	https://img3.utuku.china.com/650x0/news/20200305/40f50816-b005-4ca9-bedd-e6e8dd9f07bb.jpg
-	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-06/news843687.shtml">chinanews tv</a><br/><video width='100%' controls><source src="http://cov2.free.fr/164422D74ADA4081ABF937B44E9D5E0E_market-parts.mp4#t=18" type="video/mp4"></video>
+	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-06/news843687.shtml">chinanews tv</a><br/><video width='100%' controls><source src="videos/164422D74ADA4081ABF937B44E9D5E0E_market-parts.mp4#t=18" type="video/mp4"></video>
 		saved_images/394.jpg	http://i2.chinanews.com/simg/hd/2019/12/31/1b5e6ed5afd34143aafdc768c1ce8bd8.jpg
 		saved_images/395.jpg	http://i2.chinanews.com/simg/hd/2019/12/31/a74f9d2c7e9b45009772578763c856dd.jpg
 		saved_images/396.jpg	https://trustmyscience.com/wp-content/uploads/2020/01/epidemie-pneumonie-virale-chine-huanan-market.jpg
@@ -621,8 +621,8 @@ function dummyFunctionFromDataJs() { /*
 		
 	#	end unknown
 39.7-78.8
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/kv5opXKzcdhTUIgz_DdhSuhgcYtMI9ViWtJFrg___16.mp4#t=32" type="video/mp4"></video>
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=570" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/kv5opXKzcdhTUIgz_DdhSuhgcYtMI9ViWtJFrg___16.mp4#t=32" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=570" type="video/mp4"></video>
 		saved_images/177.jpg	http://n.sinaimg.cn/spider2020227/236/w1080h756/20200227/141a-ipzreiw5002603.jpg
 	HTML	<a href="https://fb.watch/8tUUc_mvU9/">facebook video 0:36</a> (<a href="http://www.nbd.com.cn/articles/2020-03-13/1416671.html">better quality on nbd.com.cn at 0:23</a>)
 		sampling Jan 1 ouest allee2.jpg
@@ -631,39 +631,39 @@ function dummyFunctionFromDataJs() { /*
 		gif west 2.jpg
 		EzPmrmmUUoKwCS.jpg
 	2014	saved_images/365.jpg	https://qcloud.dpfile.com/pc/UdgHEI97nGau1EOurm_RUp0cgnJ9ROVrzxCuGLPCiq-OIamtgn9yOgxm7XNDABlujoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=59" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=59" type="video/mp4"></video>
 	#	https://inews.gtimg.com/newsapp_bt/0/11163955604/1000
 		1000.jpg
 39.8-73.9
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/kv5opXKzcdhTUIgz_DdhSuhgcYtMI9ViWtJFrg___16.mp4#t=42" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/kv5opXKzcdhTUIgz_DdhSuhgcYtMI9ViWtJFrg___16.mp4#t=42" type="video/mp4"></video>
 		saved_images/178.jpg	http://qcloud.dpfile.com/pc/LGQRL_mLNZjAMpTSp2XDUi9ZJXxH1_HPA5vIgrNMX7HSg2m0nWO5k_AN68tpSUOMjoJrvItByyS4HHaWdXyO_DrXIaWutJls2xCVbatkhjUNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=73" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=73" type="video/mp4"></video>
 	#	from https://xingren.com/web/article/SEhSXM97/wap
 		saved_images/397.jpg	http://pubimg.xingren.com/0c02e098-7076-423a-af44-7f31967b3fee.png
 		gif west 3.jpg
 	2014	saved_images/366.jpg	https://qcloud.dpfile.com/pc/wIUPv_Qk3X-hN949aZ_3hrKYxoxWOuAF-L5XCanh1TVYSwWp787JWsI2aFeJAkNMjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 39-29.4
-	HTML	<a href="https://haokan.baidu.com/v?vid=17163277878096658532">from baidu video</a><br/><video width='100%' controls><source src="http://cov2.free.fr/dehors%20West%2012-9%20mda-jmwnei4itr15rc5a.mp4#t=16" type="video/mp4"></video>
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=245" type="video/mp4"></video>
-	HTML	<a href="https://v.qq.com/x/page/t07482wcqmq.html">2018-08 qq video</a> <video width='100%'  controls><source src="http://cov2.free.fr/shg_78872300_50001_a11c0a6cf1bc39fcb7cc35f2bc1a339d.f622.mp4#t=43" type="video/mp4"></video><br/>
+	HTML	<a href="https://haokan.baidu.com/v?vid=17163277878096658532">from baidu video</a><br/><video width='100%' controls><source src="videos/dehors%20West%2012-9%20mda-jmwnei4itr15rc5a.mp4#t=16" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=245" type="video/mp4"></video>
+	HTML	<a href="https://v.qq.com/x/page/t07482wcqmq.html">2018-08 qq video</a> <video width='100%'  controls><source src="videos/shg_78872300_50001_a11c0a6cf1bc39fcb7cc35f2bc1a339d.f622.mp4#t=43" type="video/mp4"></video><br/>
 		saved_images/479.jpg	https://i03piccdn.sogoucdn.com/be0a34e082c85c55
 		saved_images/179.jpg	https://mobile-img.lpcdn.ca/lpca/924x/461f3f0047f139f7930b15b88158a6a6.jpeg
 		saved_images/180.jpg	https://cdn.cnn.com/cnnnext/dam/assets/200120144254-wuhan-virus-kristie-pkg2-exlarge-169.jpg
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=108" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=108" type="video/mp4"></video>
 18.2-52
 		saved_images/480.jpg	http://5b0988e595225.cdn.sohucs.com/images/20191231/60d73cb39cfb48238a48143096f4a0ea.jpeg
 	From <a href="https://archive.ph/uFHmE">read01.com 2017</a>	saved_images/437.jpg	https://archive.ph/uFHmE/8f0bae846ae6e3e1be772f3fe1758a9245b2cc9d.jpg
 		saved_images/438.jpg	https://archive.ph/uFHmE/a5c4025e1eb75118a428f99d2a84ea16df7af914.jpg
 	The snake seems to be indeed from 8th 25	saved_images/426.jpg	https://archive.ph/uFHmE/e0a8a6b86841da67712455dc1fe315b5486cdb30.jpg
 	HTML	<video width='100%' controls><source src="http://cloudvideo.thepaper.cn/video/5418827c27124e78af895fd228db799c/hd/15bea2ce-195b-4e9d-a47c-f22ab1f1de25-01bdd918-3870-7c63-7436-34559f55f804.mp4#t=132.5" type="video/mp4"></video>
-	HTML	<a href="https://haokan.baidu.com/v?vid=7450444564972746978">From baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/video%20baidu%20couloir%20sombre%20en%20mars%20-%20mda-kcimcmtzv5eatpi2.mp4#t=42" type="video/mp4"></video><br/>
-	HTML	<a href="https://haokan.baidu.com/v?vid=639101037515553218">From baidu video</a><br/><video width='100%' controls><source src="http://cov2.free.fr/mda-jmwqj28bf0ar8jqz.mp4#t=10" type="video/mp4"></video>
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=102" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=7450444564972746978">From baidu video</a> <video width='100%' controls><source src="videos/video%20baidu%20couloir%20sombre%20en%20mars%20-%20mda-kcimcmtzv5eatpi2.mp4#t=42" type="video/mp4"></video><br/>
+	HTML	<a href="https://haokan.baidu.com/v?vid=639101037515553218">From baidu video</a><br/><video width='100%' controls><source src="videos/mda-jmwqj28bf0ar8jqz.mp4#t=10" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=102" type="video/mp4"></video>
 		saved_images/181.jpg	https://n.sinaimg.cn/spider20200128/163/w550h413/20200128/49ac-intiarn7145237.jpg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=68.8" type="video/mp4"></video>		
+	HTML	<video width='100%' controls><source src="videos/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=68.8" type="video/mp4"></video>		
 		saved_images/182.jpg	https://qcloud.dpfile.com/pc/DuiGT_Byxd8sh1-pePVuiKk0HxmRDHvAh2kw38jCzfiR-cGlPlGk8jbX_vnKR2oNjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=181" type="video/mp4"></video><br/>
-	HTML	<a href="https://twitter.com/caijingxiang/status/1344928635296223233?s=20">from twitter</a><br/><video width='100%' controls><source src="http://cov2.free.fr/twitter.com i status 1344928635296223233    - XIKUnwzkwvtkLzMD_edit.mp4#t=28" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=181" type="video/mp4"></video><br/>
+	HTML	<a href="https://twitter.com/caijingxiang/status/1344928635296223233?s=20">from twitter</a><br/><video width='100%' controls><source src="videos/twitter.com i status 1344928635296223233    - XIKUnwzkwvtkLzMD_edit.mp4#t=28" type="video/mp4"></video>
 		allee7.jpg
 	#HTML	<a href="https://haokan.baidu.com/v?vid=639101037515553218">video on baidu</a><br/>
 	#HTML	<iframe width="100%" height="50%" src="https://haokan.baidu.com/v?vid=639101037515553218"></iframe><br/>
@@ -683,7 +683,7 @@ function dummyFunctionFromDataJs() { /*
 	HTML	 <br/> https://www.thepaper.cn/newsDetail_forward_5391299
 	HTML	 <br/> https://www.thepaper.cn/newsDetail_forward_5390618?isComm=true
 	HTML	<br/> same images cut differently https://www.thepaper.cn/newsDetail_forward_5644553
-	HTML	 <br/> https://haokan.baidu.com/v?pd=wisenatural&vid=4706510607985910675 uploaded as mp4 at http://cov2.free.fr/baidu%20couloir%20sombre%20mars%20mda-katcz03m8gee3cqs.mp4
+	HTML	 <br/> https://haokan.baidu.com/v?pd=wisenatural&vid=4706510607985910675 uploaded as mp4 at videos/baidu%20couloir%20sombre%20mars%20mda-katcz03m8gee3cqs.mp4
 	HTML	 <br/> https://www.facebook.com/watch/?v=712740732588576
 	HTML	 <br/> https://www.youtube.com/watch?v=abeYukTNmj0
 	HTML	<br/> https://www.thepaper.cn/newsDetail_forward_6681256
@@ -790,9 +790,9 @@ function dummyFunctionFromDataJs() { /*
 18.4-60.4
 		saved_images/183.jpg	https://qcloud.dpfile.com/pc/oN6p0Y8_gvIeItUwh12OEsKiM1eadHtBE5naPDl-oN_G8He3lPfjFCARXQQNeUTPjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 	#	niveauallee6.jpg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=65" type="video/mp4"></video>		
-	HTML	<a href="https://twitter.com/caijingxiang/status/1344928635296223233?s=20">from twitter</a><br/><video width='100%' controls><source src="http://cov2.free.fr/twitter.com i status 1344928635296223233    - XIKUnwzkwvtkLzMD_edit.mp4#t=17.5" type="video/mp4"></video>
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=92" type="video/mp4"></video>	
+	HTML	<video width='100%' controls><source src="videos/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=65" type="video/mp4"></video>		
+	HTML	<a href="https://twitter.com/caijingxiang/status/1344928635296223233?s=20">from twitter</a><br/><video width='100%' controls><source src="videos/twitter.com i status 1344928635296223233    - XIKUnwzkwvtkLzMD_edit.mp4#t=17.5" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=92" type="video/mp4"></video>	
 	<a href="https://web.archive.org/web/20211212014523/https://kknews.cc/zh-cn/food/k5m2pr.html">kknews 2016</a>	s5r0003666o26srs931.jpg
 		saved_images/481.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200103/f9fe3945b23f45b38e3478c43adbd03f.jpeg
 	<a href="https://web.archive.org/web/20211212014523/https://kknews.cc/zh-cn/food/k5m2pr.html">kknews.cc</a>	s7100013nq33p6pr2po.jpg
@@ -805,17 +805,17 @@ function dummyFunctionFromDataJs() { /*
 		9th-street-the-paper.jpg
 	<a href="https://web.archive.org/web/20211212014523/https://kknews.cc/zh-cn/food/k5m2pr.html">2016</a>	kknews.cc zh-cn food k5m2pr.html.jpg
 		saved_images/187.jpg	https://archive.md/Rfrll/95d9e176c99abd1407e93ff5224852e02a4910a5.jpg
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=152" type="video/mp4"></video
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=152" type="video/mp4"></video
 39.9-8.3
 	HTML	<a href="https://map.baidu.com/@11590057.96,4489812.75,4z#panoid=09000200121905200907328578V&panotype=street&heading=294.53&pitch=0.99&l=4&tn=B_NORMAL_MAP&sc=0&newmap=1&shareurl=1&pid=09000200121905200907328578V">baidu street view</a><br/>	
 		saved_images/188.jpg	https://i01piccdn.sogoucdn.com/1bc0bd7ae7c83d8c
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=13" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=13" type="video/mp4"></video>
 		saved_images/189.jpg	https://dingyue.ws.126.net/2020/0206/0c43494fj00q59v4u004bd200pu00jdg00dn00a7.jpg
 		saved_images/190.jpg	https://crawl.ws.126.net/76a8be46e7dd8efff37002f3b5a798e3.jpg
 		saved_images/191.jpg	https://p4.itc.cn/q_70/images03/20210218/8f3cf0a2f5e74bfba2b37e7c4a211f78.jpeg
 		saved_images/192.jpg	http://news.sun0769.com/national/zh/202001/W020200119338679586813.png
 		saved_images/193.jpg	https://imagepphcloud.thepaper.cn/pph/image/55/347/379.jpg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=0" type="video/mp4"></video>		
+	HTML	<video width='100%' controls><source src="videos/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=0" type="video/mp4"></video>		
 		saved_images/194.jpg	https://images.haiwainet.cn/20200305/1583417824611807.png
 		saved_images/195.jpg	http://szb.qzwb.com/dnzb/res/1/41/2020-01/01/res_A15_01_attpic_brief.jpg
 		saved_images/196.jpg	https://img.caixin.com/2020-02-23/1582460864666081.jpg
@@ -824,15 +824,15 @@ function dummyFunctionFromDataJs() { /*
 		saved_images/198.jpg	http://image.nbd.com.cn/uploads/articles/images/805397/1577779987_QQ__20191231160952.jpg
 		saved_images/199.jpg	https://qcloud.dpfile.com/pc/qJ_BowNySUVYIW0ln4t9rCXgqYh9lSdZ_z0t8LU0ep797R5AhAw_sYX_39idGaAqjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/439.jpg	https://imgcdn.yicai.com/uppics/images/2019/12/619c76a955ed83d87fbf56c3218dc4be.jpg
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=132" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=132" type="video/mp4"></video>
 53-63
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=54.3" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/coin%20sud%20est%20001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=16.7" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/video%20facebook%20couloir%20sombre%206%20ouest%2010000000_549297742876302_6005460415033573593_n.mp4#t=54.3" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/coin%20sud%20est%20001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=16.7" type="video/mp4"></video>
 	Video <a href="https://www.dailymotion.com/video/x7t26e8">dailymotion</a> and <a href="https://haokan.baidu.com/v?vid=3939783013600696544">baidu</a> and <a href="https://youtu.be/2LtA0-qoHOg?t=30">scmp youtube</a>	couloir est unknown.jpg
 		saved_images/420.jpg	https://wx1.sinaimg.cn/mw2000/6b354636gy1gah73xex7xj21400u0ael.jpg
 		saved_images/200.jpg	https://health.mingpao.com/wp-content/uploads/2020/01/4edb43cfa99f268591c7baa90d715826.jpg
 		saved_images/482.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200125/dd9c25abbde84f20b7dc3eb456063889.jpeg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/mda-mhway2ag47inz3ii.mp4#t=10.5" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/mda-mhway2ag47inz3ii.mp4#t=10.5" type="video/mp4"></video>
 		saved_images/483.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200101/f18d9c517fe24c399fdef264433d9bf0.jpeg
 		saved_images/201.jpg	http://www.1797.com.cn/Files/UploadFiles/news/2020-1/11165aef2d634416bc6aef5c5ac.jpg
 	HTML	<a href="https://youtu.be/rkEjn0NuajI?t=37">youtube video</a><br/>
@@ -853,21 +853,21 @@ function dummyFunctionFromDataJs() { /*
 		saved_images/205.jpg	https://c7.alamy.com/comp/2E8ETHJ/wuhan-china-31st-jan-2021-the-huanan-seafood-wholesale-market-is-pictured-in-wuhan-china-on-jan-31-2021-the-world-health-organizations-investigation-into-the-origins-of-the-coronavirus-pandemic-is-under-way-in-the-city-kyodo==kyodo-photo-via-credit-newscomalamy-live-news-2E8ETHJ.jpg
 	<a href="https://map.baidu.com/@11590057.96,4489812.75,4z#panoid=09000200121905200907075578V&panotype=street&heading=160.83&pitch=-4.13&l=4&tn=B_NORMAL_MAP&sc=0&newmap=1&shareurl=1&pid=09000200121905200907075578V">Baidu streetview</a>, corridor passing behind the stalls	couloir du fond 10-15 west.jpg
 	<a href="https://youtu.be/0f4422gqPXI?t=7">youtube video</a>	couloir du fond 10-15 west bis.jpg
-	HTML	<a href="https://www.bilibili.com/video/BV14t4y1B7Va/?spm_id_from=333.788.videocard.0">from bilibili</a><br/> <video width='100%' controls><source src="http://cov2.free.fr/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=25.2" type="video/mp4"></video>
+	HTML	<a href="https://www.bilibili.com/video/BV14t4y1B7Va/?spm_id_from=333.788.videocard.0">from bilibili</a><br/> <video width='100%' controls><source src="videos/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=25.2" type="video/mp4"></video>
 		saved_images/206.jpg	https://qcloud.dpfile.com/pc/i1XR-9EwkgZd1Bak0kPTEfWmHH6Ts3Qtr5bzZTL_487YCMX9GcqM8WqJs9_-0BbpjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/207.jpg	http://qqpublic.qpic.cn/qq_public/0/0-2162415553-C9088C895AB7342757DD0D70E016C0FD/0?fmt=jpg&size=135&h=549&w=900&ppv=1/0
 		saved_images/208.jpg	https://qcloud.dpfile.com/pc/tl7J6WPIqFlB9xkxLXiH8KbTxSTtgsJR-Ov3K-NktA_RKFpYEo6H3OpKaU98Sy8-joJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/398.jpg	https://img2.utuku.china.com/650x0/news/20200305/8849b06d-58a9-4abd-bc0e-b4f09a69bf05.jpg
 		saved_images/209.jpg	https://i01piccdn.sogoucdn.com/f29b667001948975
 		saved_images/210.jpg	https://qcloud.dpfile.com/pc/PuNHxIaAEBJe6Q0jt9xfO0yNQltWmukDadLzNszQhrtF8y9SSCj5PBLbkxBQdMpfjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/baidu%20couloir%20sombre%20mars%20mda-katcz03m8gee3cqs.mp4#t=105" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/baidu%20couloir%20sombre%20mars%20mda-katcz03m8gee3cqs.mp4#t=105" type="video/mp4"></video>
 19.8-12.9
 	<a href="http://video.chinanews.com/tvmining//News/MP4ZXW/CCYVNEWS/2020/01/27/frkexo1_1580099342375_E2Xvj1R_6230.mp4#t=29">From CCTV video</a>	cctv allee13 ext.jpg
 68.5-10.2
 	HTML	<a href="https://map.baidu.com/@11590057.96,4489812.75,4z#panoid=09000200121706171409209622R&panotype=street&heading=139.8&pitch=-0.75&l=4&tn=B_NORMAL_MAP&sc=0&newmap=1&shareurl=1&pid=09000200121706171409209622R">baidu street view</a>
 		derrierewhdaz.jpg
-	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="http://cov2.free.fr/quelques drones view 38650119902.mp4#t=57" type="video/mp4"></video>		
-	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="http://cov2.free.fr/quelques drones view 38650119902.mp4#t=73" type="video/mp4"></video>		
+	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="videos/quelques drones view 38650119902.mp4#t=57" type="video/mp4"></video>		
+	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="videos/quelques drones view 38650119902.mp4#t=73" type="video/mp4"></video>		
 		saved_images/211.jpg	https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0411%2F9af1a647j00qrdnqr000uc000hs008ac.jpg&thumbnail=650x2147483647&quality=80&type=jpg
 	HTML	From <a href="https://www.youtube.com/embed/wZ_A36MVi9s?start=23">youtube video</a>
 		unidentified1.jpg
@@ -883,8 +883,8 @@ function dummyFunctionFromDataJs() { /*
 		saved_images/485.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200423/690dde67cc3d4b82ab0abeed0b36b6af.jpeg
 	HTML	<a href="https://www.meipai.com/media/100304145">from 2019 video</a>
 	#	http://mvimg11.meitudata.com/53f28cc3bc1e53411.jpg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/meipan 53f28cc3bd9bc4916.mp4#t=3" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/meipan 53f28cc3bd9bc4916.mp4" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/meipan 53f28cc3bd9bc4916.mp4#t=3" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/meipan 53f28cc3bd9bc4916.mp4" type="video/mp4"></video>
 		saved_images/215.jpg	https://img.21jingji.com/uploadfile/cover/20191231/1577790727650286.jpg
 95.7-87.5
 		entree sud est est.jpg
@@ -941,18 +941,18 @@ function dummyFunctionFromDataJs() { /*
 		saved_images/233.jpg	https://inews.gtimg.com/newsapp_bt/0/11103302273/1000
 	HTML	<a href="https://haokan.baidu.com/v?vid=10832532883292202045">baidu video</a> 1:48<br/>
 		saved_images/234.jpg	https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2FWHxcx94OhWZVm9GIwcC8e48HYVQq9Bd4uFd4qfGR2m5jo1607558628792.jpeg&thumbnail=650x2147483647&quality=80&type=jpg
-	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-06/news843687.shtml">chinanews tv</a><br/><video width='100%' controls><source src="http://cov2.free.fr/164422D74ADA4081ABF937B44E9D5E0E_market-parts.mp4#t=56" type="video/mp4"></video>
+	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-06/news843687.shtml">chinanews tv</a><br/><video width='100%' controls><source src="videos/164422D74ADA4081ABF937B44E9D5E0E_market-parts.mp4#t=56" type="video/mp4"></video>
 		saved_images/235.jpg	http://n.sinaimg.cn/news/crawl/162/w550h412/20200101/49a3-imkzenq4782921.jpg
 		saved_images/236.jpg	https://x0.ifengimg.com/ucms/2020_03/8A2E7E4ACC6A1C0D59E4836989DC77A5878BA11A_w1080_h810.jpg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/coin%20sud%20est%20001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=28" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/coin%20sud%20est%20001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=28" type="video/mp4"></video>
 	HTML	<a href="https://tv.cctv.com/2020/01/03/VIDEv7aIcgjyqIkN7f21Dcxj200103.shtml">cctv video 0:16</a><br/>
 52.8-68.7-street-2	
 51.4-68.9
 	HTML	<a href="https://fb.watch/8tUjklKO2Y/">facebook video 0:35</a></br>
 		allee2 est.jpg
 	HTML	<video width='100%' controls><source src="http://1251434507.vod2.myqcloud.com/48276b87vodtransgzp1251434507/7eb625fc5285890797298170079/v.f30.mp4#t=24" type="video/mp4"></video>	
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/coin%20sud%20est%20001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=14" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/video%20facebook%20east%20side%20241423529_1503274520054115_4011458556763962664_n.mp4#t=28" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/coin%20sud%20est%20001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=14" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/video%20facebook%20east%20side%20241423529_1503274520054115_4011458556763962664_n.mp4#t=28" type="video/mp4"></video>
 		saved_images/172.jpg	https://qcloud.dpfile.com/pc/mOXHv3GpuaCVjNDmiX66-XmBJBLitsFSh4Wzuq8KOd18ho6p7_gxi8ZVgPTI1Cd2joJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/237.jpg	http://p1.img.cctvpic.com//photoworkspace/imageLocalized/2020/01/01/2020010112534259286.jpg
 		saved_images/238.jpg	https://media.gettyimages.com/photos/woman-wears-a-mask-while-pushing-a-wheelbarrow-past-the-closed-huanan-picture-id1194134292?s=2048x2048
@@ -961,15 +961,15 @@ function dummyFunctionFromDataJs() { /*
 39.7-63.1-street-5
 40.6-62.9
 	HTML	<video width='100%' controls><source src="http://1251434507.vod2.myqcloud.com/48276b87vodtransgzp1251434507/7eb625fc5285890797298170079/v.f30.mp4#t=27.8" type="video/mp4"></video>	
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=78" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=78" type="video/mp4"></video>
 38-51.9
 		saved_images/239.jpg	https://n.sinaimg.cn/spider20200128/163/w550h413/20200128/6ae9-intiarn7145606.jpg
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=223" type="video/mp4"></video
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=223" type="video/mp4"></video
 19.2-68.8-street-4
 38.5-35
 	HTML	<a href="https://haokan.baidu.com/v?pd=wisenatural&vid=5772423104822714382">pre-pandemic baidu video 1:48</a>
-	HTML	<a href="https://haokan.baidu.com/v?vid=17163277878096658532">from baidu video</a><br/><video width='100%' controls><source src="http://cov2.free.fr/dehors%20West%2012-9%20mda-jmwnei4itr15rc5a.mp4#t=22" type="video/mp4"></video>
-	HTML	<br/><a href="https://haokan.baidu.com/v?pd=wisenatural&vid=5772423104822714382">pre-pandemic video (mainly fish)</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-kbfn1h3uwypt3ura.mp4#t=108" type="video/mp4"></video><br/>
+	HTML	<a href="https://haokan.baidu.com/v?vid=17163277878096658532">from baidu video</a><br/><video width='100%' controls><source src="videos/dehors%20West%2012-9%20mda-jmwnei4itr15rc5a.mp4#t=22" type="video/mp4"></video>
+	HTML	<br/><a href="https://haokan.baidu.com/v?pd=wisenatural&vid=5772423104822714382">pre-pandemic video (mainly fish)</a> <video width='100%' controls><source src="videos/mda-kbfn1h3uwypt3ura.mp4#t=108" type="video/mp4"></video><br/>
 	#	magasinallee10.jpg
 	HTML	<a href="https://n.miaopai.com/media/8~oHg6WZbe7Av2QwtU-kaGJZ9yu3vQ-~">video 31 Jan, 1:16</a>
 	HTML	<a href="https://fb.watch/8tUUc_mvU9/">facebook video 0:28</a>
@@ -980,34 +980,34 @@ function dummyFunctionFromDataJs() { /*
 		saved_images/241.jpg	http://p1.itc.cn/q_70/images03/20201029/d0835feeb3ea42709fb1c1d979a6bcff.jpeg
 		saved_images/242.jpg	https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2019%2F1231%2F350573acj00q3drlo001qc000g400c3c.jpg&thumbnail=660x2147483647&quality=80&type=jpg
 		saved_images/243.jpg	https://qcloud.dpfile.com/pc/i4nYlKVzyKzoesQcKYJPJglyQb-sd4yzdsHRGQmV2Sdc9kX-oBDXcOcNNs3lqDhXjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=620" type="video/mp4"></video>
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=42" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=620" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=42" type="video/mp4"></video>
 18.1-73.8
 	HTML	<video width='100%' controls><source src="https://vd3.bdstatic.com/mda-md09ttbft8a25scn/480p/h264/1617260164/mda-md09ttbft8a25scn.mp4#t=67" type="video/mp4"></video>	
-	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-06/news843687.shtml">chinanews tv</a><br/><video width='100%' controls><source src="http://cov2.free.fr/164422D74ADA4081ABF937B44E9D5E0E_market-parts.mp4#t=22.3" type="video/mp4"></video>-the-wuhan-seafood-market/index.html
+	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-06/news843687.shtml">chinanews tv</a><br/><video width='100%' controls><source src="videos/164422D74ADA4081ABF937B44E9D5E0E_market-parts.mp4#t=22.3" type="video/mp4"></video>-the-wuhan-seafood-market/index.html
 		passage-ouvert-ouest.jpg
 	<a href="https://youtu.be/tV2KyGudHCk?t=19">from youtube video</a>	passage ouest.jpg
 19.3-35.5
 	HTML	<video width='100%' controls><source src="http://cloudvideo.thepaper.cn/video/5418827c27124e78af895fd228db799c/hd/15bea2ce-195b-4e9d-a47c-f22ab1f1de25-01bdd918-3870-7c63-7436-34559f55f804.mp4#t=151" type="video/mp4"></video>
 		saved_images/488.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200106/e184c1dd24cf4c4dad80183436c6c8f1.jpeg
-	HTML	<br/><a href="https://haokan.baidu.com/v?pd=wisenatural&vid=5772423104822714382">pre-pandemic video (mainly fish)</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-kbfn1h3uwypt3ura.mp4#t=0" type="video/mp4"></video><br/>
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=124" type="video/mp4"></video>
-	HTML	<a href="page.om.qq.com/page/OzFvSCZfdA8OgT2xFFQo2vRA0">gg tencent video</a> <video width='100%' controls><source src="http://cov2.free.fr/szg_80771801_50001_e825dade8a014d53820a813b7835b711.f622%20%20%20page.om.qq.com%20page%20OzFvSCZfdA8OgT2xFFQo2vRA0.mp4#t=79" type="video/mp4"></video>
+	HTML	<br/><a href="https://haokan.baidu.com/v?pd=wisenatural&vid=5772423104822714382">pre-pandemic video (mainly fish)</a> <video width='100%' controls><source src="videos/mda-kbfn1h3uwypt3ura.mp4#t=0" type="video/mp4"></video><br/>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=124" type="video/mp4"></video>
+	HTML	<a href="page.om.qq.com/page/OzFvSCZfdA8OgT2xFFQo2vRA0">gg tencent video</a> <video width='100%' controls><source src="videos/szg_80771801_50001_e825dade8a014d53820a813b7835b711.f622%20%20%20page.om.qq.com%20page%20OzFvSCZfdA8OgT2xFFQo2vRA0.mp4#t=79" type="video/mp4"></video>
 	2021	koopmans central alley west 2021 - pasteur talk.jpg
 52.9-57-street-4
 52-58.1
 		saved_images/244.jpg	https://n.sinaimg.cn/news/crawl/162/w550h412/20200101/54d0-imkzenq4782989.jpg
 		saved_images/245.jpg	https://qcloud.dpfile.com/pc/gyIdkkfhR2dRg1cNUNSPENDenMdRY0Qdiz9LtFVJ_HUb3fULDvxJT1BFUqCYISgVjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/246.jpg	https://i04piccdn.sogoucdn.com/934936a1c652ebec
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/coin%20sud%20est%20001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=20.3" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/coin%20sud%20est%20001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=20.3" type="video/mp4"></video>
 41-50.5
 		saved_images/247.jpg	https://c8.alamy.com/comp/2B7KRKA/view-of-wuhan-huanan-wholesale-seafood-market-before-its-closure-in-hankou-wuhan-city-central-chinas-hubei-province-31-december-2019-2B7KRKA.jpg
 	HTML	<a href="https://m.thepaper.cn/rss_newsDetail_6078874?from=">From thepaper</a> <video width='100%' controls><source src="http://cloudvideo.thepaper.cn/video/15d0fed18bc14fc59706de83e87a7c75/ld/a28f1385-2f64-449d-ae8a-54c4cbfaa70d-95194f9a-3ed6-0c11-ecd1-d4198fa856e0.mp4#t=141" type="video/mp4"></video>	
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=92" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=92" type="video/mp4"></video>
 52.1-52.1
 		saved_images/489.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200121/6b4987f346f4439da28c2537745f9226.jpeg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/coin%20sud%20est%20001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=24.7" type="video/mp4"></video>
-	HTML	<a href="https://3g.163.com/v/video/VBDJ6A9BT.html?referFrom=">2019-05 video</a> <video width='100%' controls><source src="http://cov2.free.fr/videolib_repo_1905_06_0lq1iq3qi_SD_0lq1iq3qi-mobile.mp4#t=48.7" type="video/mp4"></video><br/>		
+	HTML	<video width='100%' controls><source src="videos/coin%20sud%20est%20001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=24.7" type="video/mp4"></video>
+	HTML	<a href="https://3g.163.com/v/video/VBDJ6A9BT.html?referFrom=">2019-05 video</a> <video width='100%' controls><source src="videos/videolib_repo_1905_06_0lq1iq3qi_SD_0lq1iq3qi-mobile.mp4#t=48.7" type="video/mp4"></video><br/>		
 		saved_images/248.jpg	https://qcloud.dpfile.com/pc/zAY9Eoezk63pN6EkmOr8W9XY2DBrYM2Zl2iv0xtjaJ-bQ3QAyS5ZgqVDp-olAAnOjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/490.jpg	http://5b0988e595225.cdn.sohucs.com/images/20191231/2d9d6840848148ceac6875928f80b765.jpeg
 		est allee5.jpg
@@ -1024,45 +1024,45 @@ function dummyFunctionFromDataJs() { /*
 		saved_images/252.jpg	http://p0.itc.cn/q_70/images03/20210102/bf2b625b6cd94f26831cf62134cfd568.jpeg
 		saved_images/445.jpg	https://c8.alamy.com/zooms/6/bce0329b709f4348b66688ae88d757ca/2b7krnh.jpg
 	HTML	<a href="https://map.baidu.com/@11590057.96,4489812.75,4z#panoid=09000200121905211810099358V&panotype=street&heading=74.65&pitch=-3.4&l=4&tn=B_NORMAL_MAP&sc=0&newmap=1&shareurl=1&pid=09000200121905211810099358V">baidu street view</a>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/coin%20sud%20est%20001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=11" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/video%20facebook%20east%20side%20241423529_1503274520054115_4011458556763962664_n.mp4#t=20" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/coin%20sud%20est%20001xHJhDlx07zOOdi2kg01041200cKXu0E010.mp4#t=11" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/video%20facebook%20east%20side%20241423529_1503274520054115_4011458556763962664_n.mp4#t=20" type="video/mp4"></video>
 40.4-68.5
 	HTML	<a href="https://fb.watch/8tUUc_mvU9/">facebook video</a>
 		ouest allee4.jpg
-	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-01/news843290.shtml">chinanews tv</a><br/><video width='100%' controls><source src="http://cov2.free.fr/1AAE6F2D2DFF443EA00B45A457D3FDC2.mp4#t=44.3" type="video/mp4"></video>
+	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-01/news843290.shtml">chinanews tv</a><br/><video width='100%' controls><source src="videos/1AAE6F2D2DFF443EA00B45A457D3FDC2.mp4#t=44.3" type="video/mp4"></video>
 52.3-40.6
 		saved_images/253.jpg	http://dingyue.ws.126.net/2020/0128/a911b2c3j00q4rwm3003lc200m800gog00m800go.jpg
 		allee7 est.jpg
 		saved_images/254.jpg	https://n.sinaimg.cn/translate/373/w670h503/20200124/540d-innckcf3281285.jpg
 34.7-8.1
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=50.5" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=50.5" type="video/mp4"></video>
 		saved_images/255.jpg	http://res.cjrbapp.cjn.cn/a/10001/201912/c2524ffabd5ae18958b2fcb775c5d064.jpeg
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=193" type="video/mp4"></video>
-	HTML	<a href="https://3g.163.com/v/video/VBDJ6A9BT.html?referFrom=">2019-05 video</a> <video width='100%' controls><source src="http://cov2.free.fr/videolib_repo_1905_06_0lq1iq3qi_SD_0lq1iq3qi-mobile.mp4#t=15" type="video/mp4"></video><br/>		
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=193" type="video/mp4"></video>
+	HTML	<a href="https://3g.163.com/v/video/VBDJ6A9BT.html?referFrom=">2019-05 video</a> <video width='100%' controls><source src="videos/videolib_repo_1905_06_0lq1iq3qi_SD_0lq1iq3qi-mobile.mp4#t=15" type="video/mp4"></video><br/>		
 	2015	halle2015.jpg
 	turtles	saved_images/374.jpg	https://c7.alamy.com/comp/2B7KRKB/view-of-wuhan-huanan-wholesale-seafood-market-before-its-closure-in-hankou-wuhan-city-central-chinas-hubei-province-31-december-2019-2B7KRKB.jpg
 	2018	saved_images/375.jpg	https://qcloud.dpfile.com/pc/1mY7hpta_nuF6a0IrCLVVCQpMfOknRy6pGHWiJ85MEV7gfXV4ouS0gg576jG6eq7joJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/256.jpg	http://x0.ifengimg.com/cmpp/2019_01/4e432ca90f527d7_size382_w579_h275.png
 		saved_images/257.jpg	http://n.sinaimg.cn/news/crawl/59/w550h309/20191231/e8da-imkzenq1499327.jpg
 	HTML	<iframe width="560" height="315" src="https://www.youtube.com/embed/0f4422gqPXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=36" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=36" type="video/mp4"></video>
 		saved_images/446.jpg	https://archive.ph/2AP06/030155429e4d310fe744b6088668e82141186f4f.jpg
 	HTML	<a href="https://youtu.be/0f4422gqPXI?t=2">youtube video</a><br/>
 	#HTML	<video width='100%' controls><source src="http://video.chinanews.com/tvmining//News/MP4ZXW/CCYVNEWS/2020/01/27/frkexo1_1580099342375_E2Xvj1R_6230.mp4#t=23" type="video/mp4"></video>
-	HTML	<a href="http://video.chinanews.com/tvmining//News/MP4ZXW/CCYVNEWS/2020/01/27/frkexo1_1580099342375_E2Xvj1R_6230.mp4#t=23">From CCTV video</a><video width='100%' controls><source src="http://cov2.free.fr/frkexo1_1580099342375_E2Xvj1R_6230.mp4#t=23" type="video/mp4"></video>
+	HTML	<a href="http://video.chinanews.com/tvmining//News/MP4ZXW/CCYVNEWS/2020/01/27/frkexo1_1580099342375_E2Xvj1R_6230.mp4#t=23">From CCTV video</a><video width='100%' controls><source src="videos/frkexo1_1580099342375_E2Xvj1R_6230.mp4#t=23" type="video/mp4"></video>
 		saved_images/447.jpg	https://imgcdn.yicai.com/uppics/images/2019/12/3ebf129d22029d4374f8fc786559e0cc.jpg
 	2016	saved_images/376.jpg	https://web.archive.org/web/20211212014523im_/https://i2.kknews.cc/SIG=3d3fk5o/roo000qs4640np6r5sr.jpg
 		saved_images/258.jpg	https://qcloud.dpfile.com/pc/_wVWPDoH-BJUVhmkZ3DTZT0EBGkHR4CDaYmxlYQS8LrSg2m0nWO5k_AN68tpSUOMjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/259.jpg	https://qcloud.dpfile.com/pc/HABa-LxE7ZVgwVcd2m0utCyX4Ar_4MjPLbq3LgUyuy_yruugCiVRG1P-dzvdbhycjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 19.2-20.5
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=37" type="video/mp4"></video>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=41" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=37" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=41" type="video/mp4"></video>
 	<a href="https://youtu.be/0f4422gqPXI?t=20">youtube video</a>	video pres 65M.jpg
 		saved_images/54.jpg	https://qcloud.dpfile.com/pc/0satxRB8BcUnf-lyIPPlstIeTdVo4cuMkb0v7A35C8ibQ3QAyS5ZgqVDp-olAAnOjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 12.4-8
 		saved_images/260.jpg	https://qcloud.dpfile.com/pc/DOA-TZm9whZXujssBWiVt8Eyk65tCvTorgUK_LkWjO96X-SGifYn7dkErBNhKP0AjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=30" type="video/mp4"></video>
-	HTML	<a href="https://www.163.com/news/article/F1NSV0JR0001875P.html">from 163.com</a> <video width='100%' controls><source src="http://cov2.free.fr/videolib_repo_1912_31_2oiswd87a_SD_2oiswd87a-mobile.mp4#t=19" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=30" type="video/mp4"></video>
+	HTML	<a href="https://www.163.com/news/article/F1NSV0JR0001875P.html">from 163.com</a> <video width='100%' controls><source src="videos/videolib_repo_1912_31_2oiswd87a_SD_2oiswd87a-mobile.mp4#t=19" type="video/mp4"></video>
 		saved_images/261.jpg	https://qcloud.dpfile.com/pc/jvQXmTOgAQ8HfqIoUiDG8UxCgLQoYp9mtup9q4HPUvT0kAawvhDXOXBa2ZnI1FIWjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		saved_images/262.jpg	https://selliyal.com/wp-content/uploads/2020/01/Huanan_Seafood_Market_wuhan_240120-768x511.jpg
 		saved_images/263.jpg	https://qcloud.dpfile.com/pc/FJ9CJU4h-n_bnlW1g2TOyMSZfP76WxKoMwOvVRdClZGbBI9M86czpewAp1hb5qoLjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
@@ -1072,17 +1072,17 @@ function dummyFunctionFromDataJs() { /*
 		
 17.8-18.7
 	From <a href="https://finance.sina.cn/2020-03-05/detail-iimxyqvz7892714.d.html?pos=91&vt=4">CCTV big cleaning video</a>	saved_images/377.jpg	http://k.sinaimg.cn/n/front20200305ac/400/w1280h720/20200305/80f2-iqmtvwu6054795.jpg/w700h350z1l10t105d9.jpg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/CCTV big cleaning video 32620717301.mp4#t=42" type="video/mp4"></video>
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=143" type="video/mp4"></video>		
+	HTML	<video width='100%' controls><source src="videos/CCTV big cleaning video 32620717301.mp4#t=42" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=143" type="video/mp4"></video>		
 14.8-18.4
 	HTML	From <a href="https://finance.sina.cn/2020-03-05/detail-iimxyqvz7892714.d.html?pos=91&vt=4">CCTV big cleaning video</a>
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/CCTV big cleaning video 32620717301.mp4#t=45" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/CCTV big cleaning video 32620717301.mp4#t=45" type="video/mp4"></video>
 		saved_images/267.jpg	https://dingyue.ws.126.net/2020/0310/a37c9ecbj00q6xzs4002od200u000gwg00zk00k0.jpg
 52.4-35.9
 		saved_images/161.jpg	https://qcloud.dpfile.com/pc/krYf-kfkOWW63BHlYHot-ceeoq1hAV2vQpR2xb0l37QVHjafzTn3dPwBTn_l7QwxjoJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 		est allee8.jpg
-	HTML	<a href="https://3g.163.com/v/video/VBDJ6A9BT.html?referFrom=">2019-05 video</a> <video width='100%' controls><source src="http://cov2.free.fr/videolib_repo_1905_06_0lq1iq3qi_SD_0lq1iq3qi-mobile.mp4#t=33.7" type="video/mp4"></video><br/>		
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/zZBAH9XWp33IFiOuK99e7E.mp4#t=42" type="video/mp4"></video>
+	HTML	<a href="https://3g.163.com/v/video/VBDJ6A9BT.html?referFrom=">2019-05 video</a> <video width='100%' controls><source src="videos/videolib_repo_1905_06_0lq1iq3qi_SD_0lq1iq3qi-mobile.mp4#t=33.7" type="video/mp4"></video><br/>		
+	HTML	<video width='100%' controls><source src="videos/zZBAH9XWp33IFiOuK99e7E.mp4#t=42" type="video/mp4"></video>
 	HTML	<a href="https://tv.cctv.com/2020/01/03/VIDEv7aIcgjyqIkN7f21Dcxj200103.shtml">cctv video 0:50</a><br/>
 		saved_images/268.jpg	https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhiphotos.baidu.com%2Fmap%2Fpic%2Fitem%2F8cb1cb1349540923114f986a9558d109b3de4984.jpg&refer=http%3A%2F%2Fhiphotos.baidu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637872765&t=5fd9131ad0aaee2067037437c1844455
 74.6-69.1
@@ -1100,34 +1100,34 @@ function dummyFunctionFromDataJs() { /*
 		13292147512fdc5cda9e2a.jpg
 		1329216ea4042bf214ff3a.jpg
 1.7-1
-	HTML	On the side of the parking, not on the map <video width='100%' controls><source src="http://cov2.free.fr/CCTV%20big%20cleaning%20video%2032620717301.mp4#t=56" type="video/mp4"></video>
+	HTML	On the side of the parking, not on the map <video width='100%' controls><source src="videos/CCTV%20big%20cleaning%20video%2032620717301.mp4#t=56" type="video/mp4"></video>
 		straittimes%20parking.jpg
 39.8-57.1
 	HTML	<a href="https://youtu.be/z3N1tdMHv-k?t=134">youtube video</a><br/>
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=85" type="video/mp4"></video>
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=162" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=85" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=162" type="video/mp4"></video>
 		gif west 6.jpg
 17.6-23.7
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=138" type="video/mp4"></video>
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=121" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=138" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=121" type="video/mp4"></video>
 17.2-29.5	
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=139" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=139" type="video/mp4"></video>
 30.2-51.5
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=207.5" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=207.5" type="video/mp4"></video>
 	HTML	<a href="https://aiqicha.baidu.com/company_detail_15049682218930">Stall 7 5,7</a>. Li cluster 3, 4 people positives.  49M (husband, Lan Xiaobiao) 48F (wife Qi Yanxia) 50M (Lan Bingbiao brother) 78M (step father Qi Xishan)
 	HTML	Source: (夫妻:兰小标、祁燕霞,兰小标哥哥兰兵标,兰小标岳父祁喜山),患者二陈三红及其母亲(邱风兰) from the 30 December 2019 report by the “joint investigation team of the Hubei Provincial, Municipal, and District Centers for Disease Control and Prevention” http://zhishifenzi.blog.caixin.com/archives/221847 where the names are hidden but found unobfuscated there https://archive.ph/hvuNv
 	HTML	Onsets of the case discussed in that report	https://archive.ph/hvuNv/24e95ab0a4325bce4030c178fbd8cf8b0fb0bbe7.gif<br/>
 	HTML	The mother and son (Chen Sanhong) could be the same as in https://news.sina.cn/gn/2020-02-17/detail-iimxyqvz3653366.d.html?from=wap whence probably Wuhan-Hu-1 who was hospialized in Union hospital and is <a href="https://web.archive.org/web/20200227094018/http://china.caixin.com/2020-02-26/101520972.html">said to be surnamed Chen</a>
 39.7-46
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=238" type="video/mp4"></video>
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=105" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=238" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=105" type="video/mp4"></video>
 		saved_images/491.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200121/b87ebf7c4fd0496db6e54512f6ceb040.jpeg
 39.7-40.4	
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=258" type="video/mp4"></video><br/>
-	HTML	<a href="https://v.qq.com/x/page/t07482wcqmq.html">2018-08 qq video</a> <video width='100%'  controls><source src="http://cov2.free.fr/shg_78872300_50001_a11c0a6cf1bc39fcb7cc35f2bc1a339d.f622.mp4#t=40" type="video/mp4"></video><br/>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=258" type="video/mp4"></video><br/>
+	HTML	<a href="https://v.qq.com/x/page/t07482wcqmq.html">2018-08 qq video</a> <video width='100%'  controls><source src="videos/shg_78872300_50001_a11c0a6cf1bc39fcb7cc35f2bc1a339d.f622.mp4#t=40" type="video/mp4"></video><br/>
 	HTML	<a href="https://haokan.baidu.com/v?pd=wisenatural&vid=4488958750389071149">2019-03 video 1:20</a><br/>
-	HTML	<a href="https://haokan.baidu.com/v?vid=17163277878096658532">from baidu video</a><br/><video width='100%' controls><source src="http://cov2.free.fr/dehors%20West%2012-9%20mda-jmwnei4itr15rc5a.mp4#t=28" type="video/mp4"></video><br/>
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=105" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=17163277878096658532">from baidu video</a><br/><video width='100%' controls><source src="videos/dehors%20West%2012-9%20mda-jmwnei4itr15rc5a.mp4#t=28" type="video/mp4"></video><br/>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=105" type="video/mp4"></video>
 
 
 30-40.6
@@ -1135,18 +1135,18 @@ function dummyFunctionFromDataJs() { /*
 53.9-51.5
 		saved_images/276.jpg	http://web.archive.org/web/20211013092157if_/http://p2.pstatp.com/large/cff0003bf206c101319
 33.9-23.7
-	HTML	<a href="https://v.qq.com/x/page/h3044cv7xie.html">from qq, Dec 31</a> <video width='100%' controls><source src="http://cov2.free.fr/video couloir 12 tencent v.qq.com-x-page-h3044cv7xie.html.mp4#t=20" type="video/mp4"></video>
+	HTML	<a href="https://v.qq.com/x/page/h3044cv7xie.html">from qq, Dec 31</a> <video width='100%' controls><source src="videos/video couloir 12 tencent v.qq.com-x-page-h3044cv7xie.html.mp4#t=20" type="video/mp4"></video>
 27.7-23.9
-	HTML	<a href="https://v.qq.com/x/page/h3044cv7xie.html">from qq, Dec 31</a> <video width='100%' controls><source src="http://cov2.free.fr/video couloir 12 tencent v.qq.com-x-page-h3044cv7xie.html.mp4#t=39" type="video/mp4"></video>
+	HTML	<a href="https://v.qq.com/x/page/h3044cv7xie.html">from qq, Dec 31</a> <video width='100%' controls><source src="videos/video couloir 12 tencent v.qq.com-x-page-h3044cv7xie.html.mp4#t=39" type="video/mp4"></video>
 22.6-23.7	
-	HTML	<a href="https://v.qq.com/x/page/h3044cv7xie.html">from qq, Dec 31</a> <video width='100%' controls><source src="http://cov2.free.fr/video couloir 12 tencent v.qq.com-x-page-h3044cv7xie.html.mp4#t=55" type="video/mp4"></video>
+	HTML	<a href="https://v.qq.com/x/page/h3044cv7xie.html">from qq, Dec 31</a> <video width='100%' controls><source src="videos/video couloir 12 tencent v.qq.com-x-page-h3044cv7xie.html.mp4#t=55" type="video/mp4"></video>
 20.1-23.7	
-	HTML	<a href="https://v.qq.com/x/page/h3044cv7xie.html">from qq, Dec 31</a> <video width='100%' controls><source src="http://cov2.free.fr/video couloir 12 tencent v.qq.com-x-page-h3044cv7xie.html.mp4#t=63" type="video/mp4"></video>
+	HTML	<a href="https://v.qq.com/x/page/h3044cv7xie.html">from qq, Dec 31</a> <video width='100%' controls><source src="videos/video couloir 12 tencent v.qq.com-x-page-h3044cv7xie.html.mp4#t=63" type="video/mp4"></video>
 39.7-81.5
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=597" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=597" type="video/mp4"></video>
 		saved_images/147.jpg	http://img.yun.cnhubei.com/a/10001/201911/26cae3db524d4df2132d41c6fe9f8547.jpeg
 		saved_images/277.jpg	https://d.newsweek.com/en/full/1577322/huanan.webp?w=790&f=6fc1b4bd0d96bb34292a07792f55f8da
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=335" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=335" type="video/mp4"></video>
 27.3-78.3
 	HTML	<br/><br/>Mrs Wei's 57F shrimp stall (see <a href="https://archive.md/TfWcl#selection-2913.19-2913.157">wsj's article</a>) is <a href="https://www.11467.com/qiye/91629106.htm">West street 2 No 14</a> (sample F54 in epoch times list)
 		http://p3.pstatp.com/large/ba400041e29c6d03126
@@ -1162,62 +1162,62 @@ function dummyFunctionFromDataJs() { /*
 59.9-25.4
 		saved_images/281.jpg	http://qqpublic.qpic.cn/qq_public/0/0-2211013694-38B4D933564BCD61C0BB9F9237A8E4C8/0?fmt=jpg&size=110&h=539&w=900&ppv=1/0
 	<a href="https://www.aljazeera.com/news/2021/8/27/wuhan-facilities-sheds-light-on-chinas-problematic-oversight-of">video</a>	aljazeera allee10 est.jpg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/mda-mhway2ag47inz3ii.mp4#t=12.8" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/mda-mhway2ag47inz3ii.mp4#t=12.8" type="video/mp4"></video>
 18.9-42.7
 	HTML	<video width='100%' controls><source src="https://vd3.bdstatic.com/mda-md09ttbft8a25scn/480p/h264/1617260164/mda-md09ttbft8a25scn.mp4#t=68" type="video/mp4"></video>	
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=115" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=115" type="video/mp4"></video>
 60.1-51.4
 	<a href="https://graph.baidu.com/pcpage/similar?originSign=12676eaa0bdff2c72947101634849473&srcp=crs_pc_similar&tn=pc&idctag=gz&sids=10006_10510_10525_10919_10912_11006_10924_10905_10015_10017_10942_10907_11012_10970_10968_10974_11032_17850_17071_18013_18100_17201_17202_18300_18312_18330_19300_19199_19162_19220_19210_19213_19214_19216_19218_19230_19268_19280_19550_19561_9999_10000&logid=3459672768&entrance=general&tpl_from=pc&pageFrom=graph_upload_pcshitu&image=https%3A%2F%2Fss0.baidu.com%2F6ON1bjeh1BF3odCf%2Fit%2Fu%3D2290077234,754359625%26fm%3D15%26gp%3D0.jpg&carousel=503&index=1&page=6&shituToken=a2d9ef">from baidu images</a>	baidu map stall picture.jpg
 52.2-79.2
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/video%20facebook%20east%20side%20241423529_1503274520054115_4011458556763962664_n.mp4#t=10.7" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/video%20facebook%20east%20side%20241423529_1503274520054115_4011458556763962664_n.mp4#t=10.7" type="video/mp4"></video>
 68.1-46
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/video%20facebook%20east%20side%20241423529_1503274520054115_4011458556763962664_n.mp4#t=37.8" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/video%20facebook%20east%20side%20241423529_1503274520054115_4011458556763962664_n.mp4#t=37.8" type="video/mp4"></video>
 	From <a href="https://www.ixigua.com/6812924811010900492?logTag=308e433c939bdf0d3f16">From red star video</a> (stall <a href="https://aiqicha.baidu.com/company_detail_16129396470226">name</a>)	east 6th 28.jpg
 31.7-7.3
 	From <a href="https://www.chinacdc.cn/yw_9324/202002/t20200201_212137.html">China CDC, Jan 24</a>	saved_images/451.jpg	https://www.chinacdc.cn/yw_9324/202002/W020200201589495541740.jpg
-	HTML	<a href="https://www.bilibili.com/video/BV14t4y1B7Va/?spm_id_from=333.788.videocard.0">from bilibili</a><br/> <video width='100%' controls><source src="http://cov2.free.fr/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=22.5" type="video/mp4"></video>
-	HTML	<a href="https://www.bilibili.com/video/BV14t4y1B7Va/?spm_id_from=333.788.videocard.0">from bilibili</a><br/> <video width='100%' controls><source src="http://cov2.free.fr/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=56" type="video/mp4"></video>
+	HTML	<a href="https://www.bilibili.com/video/BV14t4y1B7Va/?spm_id_from=333.788.videocard.0">from bilibili</a><br/> <video width='100%' controls><source src="videos/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=22.5" type="video/mp4"></video>
+	HTML	<a href="https://www.bilibili.com/video/BV14t4y1B7Va/?spm_id_from=333.788.videocard.0">from bilibili</a><br/> <video width='100%' controls><source src="videos/1ba15432f971bd00_WEB_HD_1280X720_1500_CBR.mp4#t=56" type="video/mp4"></video>
 46-89
-	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="http://cov2.free.fr/quelques drones view 38650119902.mp4#t=40.7" type="video/mp4"></video>		
-	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="http://cov2.free.fr/quelques drones view 38650119902.mp4#t=32.7" type="video/mp4"></video>		
-	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="http://cov2.free.fr/quelques drones view 38650119902.mp4#t=61.7" type="video/mp4"></video>		
-	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="http://cov2.free.fr/quelques drones view 38650119902.mp4#t=139.5" type="video/mp4"></video>		
+	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="videos/quelques drones view 38650119902.mp4#t=40.7" type="video/mp4"></video>		
+	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="videos/quelques drones view 38650119902.mp4#t=32.7" type="video/mp4"></video>		
+	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="videos/quelques drones view 38650119902.mp4#t=61.7" type="video/mp4"></video>		
+	HTML	<a href="https://finance.sina.com.cn/china/2021-04-08/doc-ikmxzfmk5697847.shtml">from finance.sina.com.cn</a> <video width='100%' controls><source src="videos/quelques drones view 38650119902.mp4#t=139.5" type="video/mp4"></video>		
 81-16.4
 		saved_images/282.jpg	http://qqpublic.qpic.cn/qq_public/0/0-3163576138-BC65F33D8F7915C6B7DB98885BE4217E/0?fmt=jpg&size=109&h=548&w=900&ppv=1/0
 70.9-10.7
 		allee centrale est code whdaz.jpg
 		saved_images/283.jpg	https://content.api.news/v3/images/bin/e1f89742e0d9256275931441bf2f5f10
 18.5-64.8
-	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="http://cov2.free.fr/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=65" type="video/mp4"></video>
+	HTML	<a href="https://www.ixigua.com/6545296264865513997?logTag=f193fecfe9f581a5df96">Long April 2018 video</a> <video width='100%' controls><source src="videos/April 2018 - www.ixigua.com 6545296264865513997.mp4#t=65" type="video/mp4"></video>
 		saved_images/448.jpg	https://c7.alamy.com/compfr/2b7krkw/vue-sur-le-marche-des-fruits-de-mer-de-wuhan-huanan-avant-sa-fermeture-a-hankou-ville-de-wuhan-province-de-hubei-en-chine-centrale-31-decembre-2019-2b7krkw.jpg
-	HTML	<video width='100%' controls><source src="http://cov2.free.fr/video%20baidu%20couloir%20sombre%20en%20mars%20-%20mda-kcimcmtzv5eatpi2.mp4#t=63" type="video/mp4"></video>
+	HTML	<video width='100%' controls><source src="videos/video%20baidu%20couloir%20sombre%20en%20mars%20-%20mda-kcimcmtzv5eatpi2.mp4#t=63" type="video/mp4"></video>
 34.8-35
 	<a href="https://www.sohu.com/a/153952457_345268">from Sogou 2017 with many pictures</a>	saved_images/380.jpg	http://img.mp.sohu.com/upload/20170703/eb0513df29b0467e95ce42bee781216f_th.png
 35.3-29.3
 		saved_images/284.jpg	https://img3.utuku.china.com/650x0/news/20200305/6341aa89-c8cf-4bce-9d8b-77656a5058b5.jpg
 21.2-85.4
-	HTML	<a href="https://twitter.com/caijingxiang/status/1344928635296223233?s=20">from twitter</a><br/><video width='100%' controls><source src="http://cov2.free.fr/twitter.com i status 1344928635296223233    - XIKUnwzkwvtkLzMD_edit.mp4#t=5.7" type="video/mp4"></video>
+	HTML	<a href="https://twitter.com/caijingxiang/status/1344928635296223233?s=20">from twitter</a><br/><video width='100%' controls><source src="videos/twitter.com i status 1344928635296223233    - XIKUnwzkwvtkLzMD_edit.mp4#t=5.7" type="video/mp4"></video>
 		saved_images/492.jpg	http://news.cjn.cn/ttdd/202001/W020200101357251448747.jpeg
 		saved_images/493.jpg	http://5b0988e595225.cdn.sohucs.com/images/20200101/4137ab98db664283b109bec143025c52.jpeg
 63-29.4
 		http://ybwjw.yibin.gov.cn/jjyw/202003/W020200327850846136890.jpg
 7.3-16.5
-	HTML	Youtube videos <a href="https://www.youtube.com/watch?v=qmZkeRjqzX4&feature=emb_title">1</a>,<a href="https://www.youtube.com/watch?v=l6_q7gcbEtY">2</a> from <a href="https://www.straitstimes.com/asia/east-asia/wuhan-grapples-with-mystery-pneumonia">straitstimes</a> taken at 2nd floor <video width='100%' controls><source src="http://cov2.free.fr/The inner courtyard of the Wuhan Huanan Seafood Wholesale Market.mp4" type="video/mp4"></video>
+	HTML	Youtube videos <a href="https://www.youtube.com/watch?v=qmZkeRjqzX4&feature=emb_title">1</a>,<a href="https://www.youtube.com/watch?v=l6_q7gcbEtY">2</a> from <a href="https://www.straitstimes.com/asia/east-asia/wuhan-grapples-with-mystery-pneumonia">straitstimes</a> taken at 2nd floor <video width='100%' controls><source src="videos/The inner courtyard of the Wuhan Huanan Seafood Wholesale Market.mp4" type="video/mp4"></video>
 15.8-63.6
 	The toilets, from <a href="https://downloads.vanityfair.com/ecohealth-alliance/peter-daszak-powerpoint.pdf">Daszak's presentation on the WHO visit to the market</a>	daszak 5th street toilets.jpg
 	HTML	From <a href="https://www.meipian.cn/2pdmlpa0">Jianghan CDC continued to carry elimination work</a><br/>
 		west 5 origine09fd8111b8d797e2fe1f2b48c619157.jpg
 74.7-82.1
-	HTML	<a href="https://twitter.com/RamyInocencio/status/1219863382968242176?s=20">from twitter</a><br/><video width='100%' controls><source src="http://cov2.free.fr/twitter pOBqyQQ-rOrhOYEx.mp4" type="video/mp4"></video>
+	HTML	<a href="https://twitter.com/RamyInocencio/status/1219863382968242176?s=20">from twitter</a><br/><video width='100%' controls><source src="videos/twitter pOBqyQQ-rOrhOYEx.mp4" type="video/mp4"></video>
 28.4-90.5
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=20" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=20" type="video/mp4"></video>
 34.6-89.8
-	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="http://cov2.free.fr/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=35" type="video/mp4"></video>
+	HTML	<a href="https://haokan.baidu.com/v?vid=10958065357168112835">Long Dec 31 baidu video</a> <video width='100%' controls><source src="videos/mda-ka0d7p9r577ui43e%20baidu%20video%2010958065357168112835.mp4#t=35" type="video/mp4"></video>
 21-45.8
-	HTML	<a href="page.om.qq.com/page/OzFvSCZfdA8OgT2xFFQo2vRA0">gg tencent video</a> <video width='100%' controls><source src="http://cov2.free.fr/szg_80771801_50001_e825dade8a014d53820a813b7835b711.f622%20%20%20page.om.qq.com%20page%20OzFvSCZfdA8OgT2xFFQo2vRA0.mp4#t=45" type="video/mp4"></video>
-	HTML	<a href="page.om.qq.com/page/OzFvSCZfdA8OgT2xFFQo2vRA0">gg tencent video</a> <video width='100%' controls><source src="http://cov2.free.fr/szg_80771801_50001_e825dade8a014d53820a813b7835b711.f622%20%20%20page.om.qq.com%20page%20OzFvSCZfdA8OgT2xFFQo2vRA0.mp4#t=65" type="video/mp4"></video>
+	HTML	<a href="page.om.qq.com/page/OzFvSCZfdA8OgT2xFFQo2vRA0">gg tencent video</a> <video width='100%' controls><source src="videos/szg_80771801_50001_e825dade8a014d53820a813b7835b711.f622%20%20%20page.om.qq.com%20page%20OzFvSCZfdA8OgT2xFFQo2vRA0.mp4#t=45" type="video/mp4"></video>
+	HTML	<a href="page.om.qq.com/page/OzFvSCZfdA8OgT2xFFQo2vRA0">gg tencent video</a> <video width='100%' controls><source src="videos/szg_80771801_50001_e825dade8a014d53820a813b7835b711.f622%20%20%20page.om.qq.com%20page%20OzFvSCZfdA8OgT2xFFQo2vRA0.mp4#t=65" type="video/mp4"></video>
 25.3-45.9
-	HTML	<a href="page.om.qq.com/page/OzFvSCZfdA8OgT2xFFQo2vRA0">gg tencent video</a> <video width='100%' controls><source src="http://cov2.free.fr/szg_80771801_50001_e825dade8a014d53820a813b7835b711.f622%20%20%20page.om.qq.com%20page%20OzFvSCZfdA8OgT2xFFQo2vRA0.mp4#t=59" type="video/mp4"></video>
+	HTML	<a href="page.om.qq.com/page/OzFvSCZfdA8OgT2xFFQo2vRA0">gg tencent video</a> <video width='100%' controls><source src="videos/szg_80771801_50001_e825dade8a014d53820a813b7835b711.f622%20%20%20page.om.qq.com%20page%20OzFvSCZfdA8OgT2xFFQo2vRA0.mp4#t=59" type="video/mp4"></video>
 35.9-78.6
 		saved_images/381.jpg	https://qcloud.dpfile.com/pc/O58RsYXl8YuuBwEpDYit7nDVj_R41tfdnJySmpmERwVgtOtqc64tQgL2KqiKoY-8joJrvItByyS4HHaWdXyO_I7F0UeCRQYMHlogzbt7GHgNNiIYVnHvzugZCuBITtvjski7YaLlHpkrQUr5euoQrg.jpg
 24.2-78.2
@@ -1225,17 +1225,17 @@ function dummyFunctionFromDataJs() { /*
 	unknown location	saved_images/382.jpg	https://s9.rr.itc.cn/r/wapChange/20168_3_7/a30l3j86056796668310.jpg
 		saved_images/335.jpg	https://s9.rr.itc.cn/r/wapChange/20168_3_7/a0ftdl86056808098310.jpg
 24.8-51.9
-	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="http://cov2.free.fr/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=193.4" type="video/mp4"></video>
+	HTML	<a href="https://www.youtube.com/watch?v=-c0iOjGjwsk">long video 2019-07-21</a> <video controls><source src="videos/youtube%20long%20prepandemic%20video%202019-07-21%20by%20spll%20sega.mp4#t=193.4" type="video/mp4"></video>
 	HTML	Lineage A environmental sample A20 collected on Jan 1 (plus two others A2 and A18 PCR+ and partially sequenced but lineage not identified). <a href="https://www.zhipin.com/gongsis/0c32ecc9fe10bbc0i3V73t60E1tSyw~~.html">stall name</a>.
 52.5-29.5
 	# 9th East location from https://xingren.com/web/article/SEhSXM97/wap
 		saved_images/401.jpg	https://pubimg.xingren.com/1db8c330-d0e2-4fd8-87ec-14c2a52bf168.png
 	#	https://i02piccdn.sogoucdn.com/28db14201f9a01a0
 33.3-9.5	
-	HTML	From <a href="https://v.qq.com/x/page/t30447xgmbs.html">qq</a><br/><video width='100%' controls><source src="http://cov2.free.fr/t30447xgmbs.p701.1.2.mp4#t=33" type="video/mp4"></video>
+	HTML	From <a href="https://v.qq.com/x/page/t30447xgmbs.html">qq</a><br/><video width='100%' controls><source src="videos/t30447xgmbs.p701.1.2.mp4#t=33" type="video/mp4"></video>
 		saved_images/374.jpg	https://c7.alamy.com/comp/2B7KRKB/view-of-wuhan-huanan-wholesale-seafood-market-before-its-closure-in-hankou-wuhan-city-central-chinas-hubei-province-31-december-2019-2B7KRKB.jpg
 22.9-57
-	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-06/news843687.shtml">chinanews tv</a><br/><video width='100%' controls><source src="http://cov2.free.fr/164422D74ADA4081ABF937B44E9D5E0E_market-parts.mp4#t=7.2" type="video/mp4"></video>
+	HTML	From <a href="https://www.chinanews.com.cn/sh/shipin/cns/2020/01-06/news843687.shtml">chinanews tv</a><br/><video width='100%' controls><source src="videos/164422D74ADA4081ABF937B44E9D5E0E_market-parts.mp4#t=7.2" type="video/mp4"></video>
 	HTML	<a href="https://www.thepaper.cn/newsDetail_forward_6509407">Also in thepaper video 0:48</a> <a href="https://www.youtube.com/watch?v=B2iKUoVnX-c">[2]</a><a href = "https://vimeo.com/467283297">[3]</a><br/>
 	#	allee6-ouest-vers-exterieur.jpg
 72.4-34.8
